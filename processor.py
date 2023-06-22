@@ -3,7 +3,7 @@ import re
 
 
 def trim_blanks(lines):
-    return [line for line in lines if line.strip()]
+    return [line.strip() for line in lines if line.strip()]
 
 
 def read_file(filename):
@@ -50,6 +50,9 @@ def complete(text_lines):
         newline = re.sub(r' *… *', ' … ', newline)
         newline = re.sub(r'sb.?', 'sb.', newline)
         newline = re.sub(r'sth.?', 'sth.', newline)
+
+        if ' … ' in newline:
+            newlines.append(newline.replace(' … ', '…'))
 
         newlines.append(newline)
 
