@@ -60,6 +60,10 @@ def parse_args():
                         dest="should_sort",
                         action='store_true',
                         help='sort all lines in alphabetical order')
+    parser.add_argument('-u', '--unique',
+                        dest="should_uniquefy",
+                        action='store_true',
+                        help='ensure each line is unique')
 
     return parser.parse_args()
 
@@ -76,7 +80,8 @@ def main():
         if args.should_complete:
             text_lines = complete(text_lines)
 
-        text_lines = uniquefy_lines(text_lines)
+        if args.should_uniquefy:
+            text_lines = uniquefy_lines(text_lines)
 
         if args.should_sort:
             text_lines = sorted(text_lines)
