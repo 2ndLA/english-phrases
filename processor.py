@@ -17,6 +17,29 @@ def write_file(filename, content):
         f.write(content)
 
 
+def complete(text_lines):
+    newlines = []
+
+    for line in text_lines:
+        newline = line
+
+        newline = re.sub(r' *… *', ' … ', newline)
+        newline = re.sub(r'sb.?', 'sb.', newline)
+        newline = re.sub(r'sth.?', 'sth.', newline)
+
+        if ' … ' in newline:
+            newlines.append(newline.replace(' … ', '…'))
+
+        newlines.append(newline)
+
+    return newlines
+
+
+def uniquefy_lines(text_lines):
+    line_set = set(text_lines)
+    return list(line_set)
+
+
 def parse_args():
     parser = argparse.ArgumentParser(description='Processing text.')
     parser.add_argument('filepaths',
@@ -41,29 +64,6 @@ def parse_args():
     return parser.parse_args()
 
 
-def complete(text_lines):
-    newlines = []
-
-    for line in text_lines:
-        newline = line
-
-        newline = re.sub(r' *… *', ' … ', newline)
-        newline = re.sub(r'sb.?', 'sb.', newline)
-        newline = re.sub(r'sth.?', 'sth.', newline)
-
-        if ' … ' in newline:
-            newlines.append(newline.replace(' … ', '…'))
-
-        newlines.append(newline)
-
-    return newlines
-
-
-def uniquefy_lines(text_lines):
-    line_set = set(text_lines)
-    return list(line_set)
-
-
 def main():
     args = parse_args()
 
@@ -81,7 +81,6 @@ def main():
         if args.should_sort:
             text_lines = sorted(text_lines)
 
-        # final processing
         text = '\n'.join(text_lines)
         if args.should_override:
             write_file(fp, text)
