@@ -2,8 +2,8 @@ import argparse
 import re
 
 
-def trim_blanks(lines):
-    return [line.strip() for line in lines if line.strip()]
+def trim_blanks(text_lines):
+    return [line.strip() for line in text_lines if line.strip()]
 
 
 def read_file(filename):
