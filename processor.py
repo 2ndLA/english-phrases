@@ -29,6 +29,8 @@ def complete(text_lines):
 
         if ' … ' in newline:
             newlines.append(newline.replace(' … ', '…'))
+            newlines.append(newline.replace(' … ', '… '))
+            newlines.append(newline.replace(' … ', ' '))
 
         newlines.append(newline)
 
@@ -75,10 +77,10 @@ def main():
         text = read_file(fp)
         text_lines = text.split('\n')
 
-        text_lines = trim_blanks(text_lines)
-
         if args.should_complete:
             text_lines = complete(text_lines)
+
+        text_lines = trim_blanks(text_lines)
 
         if args.should_uniquefy:
             text_lines = uniquefy_lines(text_lines)
