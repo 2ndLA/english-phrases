@@ -1,21 +1,25 @@
 a bit
 a bit of
+a bottle of
 a copy of
 a couple of
 a cup of
 a few
+a glass of
 a kind of
 a little
 a lot of
 a number of
 a pair of
 a piece of
+a slice of
 above all
 according to
 achieve one's dreams
 achieve success
 across from
 add to
+add up to
 add … to …
 add… to…
 add…to…
@@ -52,6 +56,7 @@ argue with
 arrive at
 arrive in
 as a result
+as a result of
 as as
 as far as
 as for
@@ -74,9 +79,11 @@ at first
 at last
 at least
 at lunch
+at most
 at night
 at noon
 at once
+at one time
 at present
 at school
 at supper
@@ -94,6 +101,8 @@ at the moment
 at the same time
 at the sight of
 at the speed of
+at the table
+at times
 at weekends
 at work
 avoid doing
@@ -109,6 +118,9 @@ be afraid of doing sth.
 be afraid of sth.
 be allowed to
 be allowed to do sth.
+be amazed at
+be angry at
+be angry at sth.
 be angry with
 be angry with sb.
 be asleep
@@ -117,6 +129,7 @@ be bad for
 be based on
 be blind to
 be born in
+be born on
 be busy doing
 be busy doing sth.
 be busy with
@@ -139,6 +152,9 @@ be fit for
 be fond of
 be free from
 be friendly to
+be frightened of
+be frightened of doing
+be frightened of doing sth.
 be frightened to
 be frightened to do
 be frightened to do sth.
@@ -146,6 +162,7 @@ be full of
 be gone
 be good at
 be good for
+be good to
 be ill in bed
 be in
 be in agreement
@@ -153,6 +170,7 @@ be interested in
 be keen on
 be kind to
 be known as
+be known for
 be late for
 be linked to
 be mad at
@@ -163,6 +181,7 @@ be made to do
 be made to do sth.
 be made up of
 be married to
+be married to sb.
 be moved
 be moved by
 be off
@@ -198,6 +217,7 @@ be talented in
 be terrified of
 be thankful to
 be thankful to sb.
+be tied up
 be tired of
 be up to
 be used as
@@ -207,6 +227,7 @@ be used to do
 be used to do sth.
 be used to doing
 be used to doing sth.
+be weak in
 be willing to do sth.
 be worn out
 be worried about
@@ -214,6 +235,7 @@ be worth doing
 be worth doing sth.
 because of
 before long
+beg one's pardon
 beg sb. to do sth.
 beg to do
 begin with
@@ -226,6 +248,7 @@ between and
 between … and …
 between… and…
 between…and…
+beyond compare
 borrow from
 borrow … from …
 borrow… from…
@@ -360,6 +383,7 @@ differ from
 different from
 discuss about
 divide into
+do a favor
 do business
 do chores
 do exercise
@@ -384,6 +408,9 @@ draw…from…
 dream of
 dress up
 drop by
+drop in
+drop in at some place
+drop in on sb.
 drop out
 dry up
 due to
@@ -401,6 +428,7 @@ either…or…
 encourage sb. to do sth.
 encourage to do
 end up
+end up with
 enjoy doing
 enjoy doing sth.
 enjoy oneself
@@ -414,6 +442,7 @@ exchange … with …
 exchange… with…
 exchange…with…
 face to face
+fail in
 fail to do
 fail to do sth.
 fall asleep
@@ -450,8 +479,10 @@ for example
 for free
 for instance
 for pleasure
+for sale
 for sure
 for the first time
+for the purpose of
 force sb. to do sth.
 forget doing
 forget doing sth.
@@ -466,6 +497,7 @@ from to
 from … to
 from… to
 from…to
+generally speaking
 get a ride
 get a word in
 get along with
@@ -484,6 +516,7 @@ get into trouble
 get lost
 get mad at
 get married to
+get married to sb.
 get off
 get on
 get on well with
@@ -523,6 +556,7 @@ give up
 go abroad
 go ahead
 go along
+go along with
 go away
 go back
 go back home
@@ -536,6 +570,7 @@ go off
 go on
 go on a diet
 go on a picnic
+go on a vacation
 go on doing
 go on doing sth.
 go on doing …
@@ -552,6 +587,7 @@ go skating
 go through
 go through with
 go to sleep
+go to the movies
 go with
 go wrong
 got a high fever
@@ -575,7 +611,10 @@ happen to do sth.
 happen to sb.
 hate doing
 hate doing sth.
+hate to do
+hate to do sth.
 have a bath
+have a break
 have a class
 have a cold
 have a good mind
@@ -587,7 +626,12 @@ have a meeting
 have a mind
 have a picnic
 have a rest
+have a shower
 have classes
+have difficulty doing
+have difficulty doing sth.
+have difficulty in doing
+have difficulty in doing sth.
 have fun
 have fun with
 have no idea
@@ -643,6 +687,7 @@ in a mess
 in a minute
 in a tired voice
 in a word
+in accordance with
 in addition
 in addition to
 in all
@@ -676,7 +721,9 @@ in short
 in spite of
 in style
 in surprise
+in terms of
 in the 1970s
+in the corner of
 in the dark
 in the day
 in the daytime
@@ -689,6 +736,7 @@ in the middle of
 in the open air
 in the past
 in the past few years
+in the way
 in this way
 in time
 in trouble
@@ -703,6 +751,7 @@ just now
 just then
 keep a diary
 keep a secret
+keep away from
 keep doing
 keep doing sth.
 keep fit
@@ -721,6 +770,7 @@ keep sb. in good health
 keep secrets
 keep up
 keep up with
+kill time
 kind of
 knock at
 knock into
@@ -728,12 +778,15 @@ knock into sb.
 knock on
 knock over
 know about
+know of
 later on
 laugh at
 lead to
 learn about
 learn by heart
+learn by oneself
 learn from
+learn of
 learn … by heart
 learn… by heart
 learn…by heart
@@ -744,6 +797,9 @@ leave … alone
 leave… alone
 leave…alone
 lend to
+lend … to …
+lend… to…
+lend…to…
 less and less
 less than
 let down
@@ -758,6 +814,7 @@ lie on
 light up
 line up
 listen to
+live by
 live in
 live on
 long before
@@ -781,6 +838,7 @@ lose one's job
 lose one's life
 lose weight
 lots of
+love at first sight
 major in
 make a choice
 make a decision
@@ -818,6 +876,8 @@ match with
 match … with …
 match… with…
 match…with…
+mean doing
+mean doing sth.
 mean to
 mean to do
 mean to do sth.
@@ -835,6 +895,8 @@ more or less
 more than
 most of
 move to
+much too
+my pleasure
 neck and neck
 neither does sb.
 neither nor
@@ -865,14 +927,17 @@ not only…but also
 not only…but also…
 not so as
 not until
+not … any more
 not … at all
 not … in the slightest
 not … until …
 nothing but
 notice sb. do sth.
+not… any more
 not… at all
 not… in the slightest
 not… until…
+not…any more
 not…at all
 not…in the slightest
 not…until…
@@ -897,6 +962,7 @@ on one's side
 on one's way to
 on sale
 on show
+on the earth
 on the map
 on the on hand
 on the on hand on the other hand
@@ -912,6 +978,7 @@ on time
 on vacation
 on watch
 on weekdays
+on weekends
 once a year
 once again
 once in a while
@@ -956,6 +1023,7 @@ places of interest
 play a joke on
 play a role in
 play a trick on
+play basketball
 play for
 play the piano
 play with
@@ -978,11 +1046,16 @@ prefer … to …
 prefer… to…
 prefer…to…
 prevent from
+prevent from doing
+prevent from doing sth.
 prevent … from
+prevent … from doing sth.
 prevent … from …
 prevent… from
+prevent… from doing sth.
 prevent… from…
 prevent…from
+prevent…from doing sth.
 prevent…from…
 pros and cons
 protect from
@@ -990,7 +1063,9 @@ protect … from …
 protect… from…
 protect…from…
 provide for
+provide sb. with sth.
 provide sth. for sb.
+provide with
 pull down
 pull out
 put away
@@ -1059,6 +1134,7 @@ rush hour
 rush out
 save one's life
 save up
+say goodbye to
 say hello to
 say to oneself
 search for
@@ -1101,8 +1177,10 @@ show off
 show sb. around
 show sb. sth.
 show sb. the way
+show sth. to sb.
 show the ticket
 show the way
+show to
 show up
 shut up
 side by side
@@ -1159,6 +1237,7 @@ start a club
 start out
 start to do
 start to do sth.
+start with
 stay away from
 stay healthy
 stay up
@@ -1167,6 +1246,8 @@ stick to
 stop doing
 stop doing sth.
 stop from
+stop to do
+stop to do sth.
 stop … from …
 stop… from…
 stop…from…
@@ -1185,6 +1266,7 @@ take a message for
 take a message for sb.
 take a ride
 take a risk
+take a shower
 take a vacation
 take action
 take advantage of
@@ -1204,7 +1286,10 @@ take hold of
 take in
 take it easy
 take medicine
+take note
+take note of
 take notes
+take notes of
 take off
 take one's advice
 take one's seat
@@ -1288,6 +1373,8 @@ treat with
 treat … as …
 treat… as…
 treat…as…
+try doing
+try doing sth.
 try on
 try one's best
 try one's best to do
@@ -1331,8 +1418,10 @@ welcome to
 what if
 what's more
 what's up
+wish sb. sth.
 wish sb. to do sth.
 wish to do
+wish to do sth.
 with difficulty
 with great care
 with one voice
