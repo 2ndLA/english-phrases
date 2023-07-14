@@ -13,7 +13,7 @@
 ## 词库列表
 
 - [x] [初中 (`junior.txt`, Junior High School)](./lists/junior.txt)
-- [ ] 高中 (`senior.txt`, Senior High School)
+- [x] [高中 (`senior.txt`, Senior High School)](./lists/senior.txt)
 - [ ] 四级 (`cet4.txt`, College English Test Band4)
 - [ ] 六级 (`cet6.txt`, College English Test Band6)
 - [ ] 考研 (`gee.txt`, )
@@ -45,6 +45,7 @@
 
 ## References
 
-短语主要来自以下书籍，以及部分从网络中零碎搜集而来。
+短语主要来自以下书籍（以及部分从网络中零碎搜集）。
 
 - [初中英语必备短语与句型 [Goodreads]](https://www.goodreads.com/book/show/58065021)
+- [高中英语必备短语与句型 [Goodreads]](https://www.goodreads.com/book/show/69016080)
