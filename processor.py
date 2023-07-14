@@ -32,6 +32,9 @@ def complete(text_lines):
             newlines.append(newline.replace(' … ', '… '))
             newlines.append(newline.replace(' … ', ' '))
 
+        if "sb.'s" in newline:
+            newlines.append(newline.replace("sb.'s", "one's"))
+
         newlines.append(newline)
 
     return newlines
