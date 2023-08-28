@@ -23,14 +23,9 @@ def complete(text_lines):
     for line in text_lines:
         newline = line
 
-        newline = re.sub(r' *… *', ' … ', newline)
+        newline = re.sub(r' *… *', '…', newline)
         newline = re.sub(r'sb.?', 'sb.', newline)
         newline = re.sub(r'sth.?', 'sth.', newline)
-
-        if ' … ' in newline:
-            newlines.append(newline.replace(' … ', '…'))
-            newlines.append(newline.replace(' … ', '… '))
-            newlines.append(newline.replace(' … ', ' '))
 
         if "sb.'s" in newline:
             newlines.append(newline.replace("sb.'s", "one's"))

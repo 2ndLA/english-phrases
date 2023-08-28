@@ -21,8 +21,6 @@ according to
 account for
 accuse of
 accuse sb. of sth.
-accuse … of …
-accuse… of…
 accuse…of…
 act as
 act for
@@ -31,15 +29,11 @@ act on one's advice
 act on sb.'s advice
 act out
 adapt to
-adapt … to …
-adapt… to…
 adapt…to…
 add in
 add to
 add up
 add up to
-add … to …
-add… to…
 add…to…
 adhere to
 adjust to
@@ -49,10 +43,6 @@ admit doing sth.
 admit into
 admit of
 admit to
-admit … into
-admit … to
-admit… into
-admit… to
 admit…into
 admit…to
 advertise for
@@ -116,8 +106,6 @@ appeal to
 apply for
 apply oneself to
 apply to
-apply … to
-apply… to
 apply…to
 approve of
 arise from
@@ -148,7 +136,6 @@ as to
 as usual
 as well
 as well as
-as … as …
 aside from
 ask after
 ask for
@@ -157,7 +144,6 @@ assist sb. with sth.
 assist with
 assure of
 assure sb. of sth.
-as… as…
 as…as…
 at a distance
 at a high price
@@ -221,8 +207,6 @@ at work
 attach importance to
 attach oneself to
 attach to
-attach … to …
-attach… to…
 attach…to…
 attain to
 attempt to do
@@ -235,8 +219,6 @@ attract one's attention
 attract one's attention to
 attract sb.'s attention
 attribute to
-attribute … to …
-attribute… to…
 attribute…to…
 avoid doing
 avoid doing sth.
@@ -251,9 +233,7 @@ bargain for
 bargain with
 bargain with sb. for sth.
 base on
-base … on …
 based on
-base… on…
 base…on…
 be a classic example
 be a good example
@@ -468,8 +448,6 @@ boast of
 border on
 born of
 both and
-both … and …
-both… and…
 both…and…
 break away
 break away from
@@ -573,8 +551,6 @@ cannot but
 cannot help
 cannot help but
 cannot too
-cannot … too …
-cannot… too…
 cannot…too…
 care about
 care for
@@ -594,8 +570,6 @@ cast back
 cast into
 cast into prison
 cast oneself on
-cast … into prison
-cast… into prison
 cast…into prison
 catch a glimpse of
 catch at
@@ -622,10 +596,6 @@ change for
 change into
 change one's mind
 change the course of history
-change … for …
-change … into …
-change… for…
-change… into…
 change…for…
 change…into…
 charge sb. with
@@ -637,8 +607,6 @@ check up
 check up on
 cheer on
 cheer up
-cheer … on
-cheer… on
 cheer…on
 chew over
 chip in
@@ -705,12 +673,8 @@ come what may
 common sense
 compare to
 compare with
-compare … to …
-compare … with …
 compared to
 compared with
-compare… to…
-compare… with…
 compare…to…
 compare…with…
 compensate for
@@ -722,17 +686,11 @@ concentrate one's effort on
 concentrate upon
 congratulate on
 congratulate upon
-congratulate … on …
-congratulate … upon …
-congratulate… on…
-congratulate… upon…
 congratulate…on…
 congratulate…upon…
 connect to
 connect with
 consider as
-consider … as …
-consider… as…
 consider…as…
 consist in
 consist of
@@ -744,8 +702,6 @@ control one's temper
 convince of
 convince sb. to do sth.
 convince to do
-convince … of …
-convince… of…
 convince…of…
 cool down
 cool off
@@ -804,15 +760,9 @@ declare for
 declare war against
 declare war on
 dedicate to
-dedicate … to …
-dedicate… to…
 dedicate…to…
 defend against
 defend from
-defend … against …
-defend … from …
-defend… against…
-defend… from…
 defend…against…
 defend…from…
 deliver a speech
@@ -820,14 +770,10 @@ depart from
 depend on
 depend upon
 deposit in
-deposit … in …
-deposit… in…
 deposit…in…
 derive from
 descend from
 describe as
-describe … as …
-describe… as…
 describe…as…
 despite of
 determination to do
@@ -838,8 +784,6 @@ develop an interest in
 develop into
 devote oneself to
 devote to
-devote … to …
-devote… to…
 devote…to…
 die away
 die down
@@ -862,18 +806,12 @@ discourage from
 discourage from doing
 discourage sb. from doing sth.
 distinguish between and
-distinguish between … and …
-distinguish between… and…
 distinguish between…and…
 distinguish from
-distinguish … from …
-distinguish… from…
 distinguish…from…
 dive into
 divide into
 divide up
-divide … into …
-divide… into…
 divide…into…
 do a favour
 do a good deed
@@ -906,8 +844,6 @@ do with
 do without
 do wrong
 donate to
-donate … to …
-donate… to…
 donate…to…
 double back
 double up
@@ -917,8 +853,6 @@ drag in
 drag on
 drain of
 drain off
-drain … of
-drain… of
 drain…of
 draw a conclusion
 draw aside
@@ -980,10 +914,6 @@ eat one's word
 eat one's words
 eat up
 either or
-either … or
-either … or …
-either… or
-either… or…
 either…or
 either…or…
 employ oneself in
@@ -1022,8 +952,6 @@ exist in
 exist on
 expect of
 expose to
-expose … to …
-expose… to…
 expose…to…
 express an interest in
 express interest in
@@ -1058,8 +986,6 @@ fear for
 feed on
 feed up
 feed with
-feed … on …
-feed… on…
 feed…on…
 feel amused at
 feel an interest in
@@ -1099,8 +1025,6 @@ flash out
 fly into a temper
 focus on
 focus upon
-focus … on
-focus… on
 focus…on
 follow one's advice
 follow one's example
@@ -1298,8 +1222,6 @@ happen on
 happen to
 hardly any
 hardly when
-hardly … when …
-hardly… when…
 hardly…when…
 have a ball
 have a class
@@ -1368,12 +1290,6 @@ have trouble in doing
 have trouble in doing sth.
 have trouble with
 have words with
-have … in common
-have … in common with
-have … in common with …
-have… in common
-have… in common with
-have… in common with…
 have…in common
 have…in common with
 have…in common with…
@@ -1393,8 +1309,6 @@ help sb. out
 help sb. with
 help sb. with sth.
 help with
-help … out
-help… out
 help…out
 here and now
 here and there
@@ -1417,8 +1331,6 @@ hold out
 hold sb. in one's arms
 hold up
 hold water
-hold … against
-hold… against
 hold…against
 how about
 how far
@@ -1665,7 +1577,6 @@ in view of
 in want of
 in whispers
 in work
-in … condition
 inch by inch
 increase to
 infer from
@@ -1678,7 +1589,6 @@ insist upon
 instead of
 interfere in
 interfere with
-in… condition
 in…condition
 jet lag
 join hands
@@ -1689,10 +1599,6 @@ join up
 jot down
 judge by
 judge from
-judge … by …
-judge … from …
-judge… by…
-judge… from…
 judge…by…
 judge…from…
 judging by
@@ -1710,8 +1616,6 @@ just the same
 just then
 keep a balance
 keep a balance between and
-keep a balance between … and …
-keep a balance between… and…
 keep a balance between…and…
 keep a promise
 keep a record of
@@ -1763,10 +1667,6 @@ keep to oneself
 keep under
 keep up
 keep up with
-keep … from …
-keep … in mind
-keep… from…
-keep… in mind
 keep…from…
 keep…in mind
 kick in
@@ -1790,10 +1690,6 @@ know better than
 know by heart
 know from
 know of
-know … by heart
-know … from …
-know… by heart
-know… from…
 know…by heart
 know…from…
 labour along
@@ -1819,8 +1715,6 @@ lay over
 lay sb. out
 lay up
 lead a life
-lead a … life
-lead a… life
 lead a…life
 lead the way
 lead to
@@ -1832,10 +1726,6 @@ learn by oneself
 learn from
 learn of
 learn off
-learn … by heart
-learn … by oneself
-learn… by heart
-learn… by oneself
 learn…by heart
 learn…by oneself
 least of all
@@ -1848,8 +1738,6 @@ leave off
 leave office
 leave out
 leave school
-leave … alone
-leave… alone
 leave…alone
 lend an ear to
 lend sb. a hand
@@ -1868,8 +1756,6 @@ let sb. down badly
 let sb. go
 let sth. down
 let up
-let … out of
-let… out of
 let…out of
 lie down
 lie in
@@ -1890,17 +1776,11 @@ link to
 link up
 link up with
 link with
-link … to …
-link … with …
-link… to…
-link… with…
 link…to…
 link…with…
 listen to
 little by little
 live a life
-live a … life
-live a… life
 live a…life
 live by
 live in
@@ -1941,8 +1821,6 @@ look into
 look like
 look on
 look on as
-look on … as …
-look on… as…
 look on…as…
 look out
 look out for
@@ -1955,8 +1833,6 @@ look up and down
 look up to
 look upon
 look upon as
-look upon … as …
-look upon… as…
 look upon…as…
 lose balance
 lose contact with
@@ -2047,15 +1923,11 @@ mean to do sth.
 meet up
 millions of
 mistake for
-mistake … for …
-mistake… for…
 mistake…for…
 mix up
 more and more
 more or less
 more than
-more … than …
-more… than…
 more…than…
 much too
 my pleasure
@@ -2065,8 +1937,6 @@ narrow escape
 neck and neck
 needless to say
 neither nor
-neither … nor …
-neither… nor…
 neither…nor…
 never mind
 next door
@@ -2081,8 +1951,6 @@ no problem
 none other than
 none the less
 not as as
-not as … as …
-not as… as…
 not as…as…
 not at all
 not in the least
@@ -2158,8 +2026,6 @@ on the grounds of
 on the increase
 on the one hand
 on the one hand on the other hand
-on the one hand … on the other hand …
-on the one hand… on the other hand…
 on the one hand…on the other hand…
 on the other hand
 on the phone
@@ -2228,8 +2094,6 @@ over and over
 over and over again
 over the radio
 owe to
-owe … to …
-owe… to…
 owe…to…
 owing to
 pack up
@@ -2250,8 +2114,6 @@ pay off
 pay sb. a visit
 pay sb. for sth.
 pay sb. off
-pay sb. … for sth.
-pay sb.… for sth.
 pay sb.…for sth.
 pay up
 per cent
@@ -2284,8 +2146,6 @@ prefer to
 prefer to do
 prefer to do rather than do
 prefer to do sth.
-prefer … to …
-prefer… to…
 prefer…to…
 prepare for
 prevent from
@@ -2293,10 +2153,6 @@ prevent from doing
 prevent sb. from doing sth.
 protect against
 protect from
-protect … against …
-protect … from …
-protect… against…
-protect… from…
 protect…against…
 protect…from…
 provide for
@@ -2360,16 +2216,6 @@ put through
 put together
 put up
 put up with
-put … in action
-put … in force
-put … in prison
-put … into …
-put … on the stage
-put… in action
-put… in force
-put… in prison
-put… into…
-put… on the stage
 put…in action
 put…in force
 put…in prison
@@ -2395,8 +2241,6 @@ raise money
 raise one's eyebrows
 raise one's voice
 range from to
-range from … to …
-range from… to…
 range from…to…
 rather than
 rather too
@@ -2414,8 +2258,6 @@ read out
 receive for an answer
 reckon on
 recognize as
-recognize … as …
-recognize… as…
 recognize…as…
 recommend doing
 recommend doing sth.
@@ -2423,16 +2265,12 @@ recover from
 recover oneself
 refer to
 refer to as
-refer to … as …
-refer to… as…
 refer to…as…
 reflect on
 refuse to do
 refuse to do sth.
 regard as
-regard … as …
 regardless of
-regard… as…
 regard…as…
 regret doing sth.
 relate to
@@ -2452,12 +2290,8 @@ remind sb. to do sth.
 remind that
 remind to do
 remove from
-remove … from …
-remove… from…
 remove…from…
 replace with
-replace … with …
-replace… with…
 replace…with…
 resemble in
 resemble sb. in
@@ -2472,9 +2306,7 @@ retire as
 retire from
 return to
 rid of
-rid … of …
 ride on
-rid… of…
 rid…of…
 right away
 right in the middle
@@ -2688,18 +2520,6 @@ take the trouble to do sth.
 take to one's heels
 take turns
 take up
-take … by surprise
-take … for a walk
-take … for example
-take … for granted
-take … into account
-take … into consideration
-take… by surprise
-take… for a walk
-take… for example
-take… for granted
-take… into account
-take… into consideration
 take…by surprise
 take…for a walk
 take…for example
@@ -2725,8 +2545,6 @@ tell jokes
 tell lies
 tell sb. about sth.
 tell the truth
-tell … apart
-tell… apart
 tell…apart
 test out
 thanks to
@@ -2750,8 +2568,6 @@ think nothing of
 think nothing of it
 think of
 think of as
-think of … as …
-think of… as…
 think of…as…
 think out
 think out loud
@@ -2801,24 +2617,16 @@ to the point
 together with
 too much
 too to
-too … to …
-too… to…
 too…to…
 trade in
 trade with
 translate into
-translate … into …
-translate… into…
 translate…into…
 treat as
 treat oneself to
 treat out of
 treat sb. out of
 treat to
-treat … as …
-treat … to …
-treat… as…
-treat… to…
 treat…as…
 treat…to…
 trick into
@@ -2888,12 +2696,8 @@ used to do
 used to do sth.
 vacate a seat
 vary from to
-vary from … to …
-vary from… to…
 vary from…to…
 view as
-view … as …
-view… as…
 view…as…
 vote against
 vote down
@@ -2919,10 +2723,6 @@ warn against sth.
 warn of
 warn sb. against doing sth.
 warn sb. against sth.
-warn … about …
-warn … of …
-warn… about…
-warn… of…
 warn…about…
 warn…of…
 wash away
@@ -2939,12 +2739,6 @@ waste no time in doing
 waste no time in doing sth.
 waste one's breath
 waste one's words
-waste … doing sth.
-waste … in doing on sth.
-waste … in doing sth.
-waste… doing sth.
-waste… in doing on sth.
-waste… in doing sth.
 waste…doing sth.
 waste…in doing on sth.
 waste…in doing sth.
@@ -2961,10 +2755,6 @@ what's up
 what's wrong with
 whether or
 whether or not
-whether … or not
-whether … or …
-whether… or not
-whether… or…
 whether…or not
 whether…or…
 whisper sth. to sb.
@@ -3010,8 +2800,6 @@ would love to do
 would love to do sth.
 would rather
 would rather than
-would … rather than …
-would… rather than…
 would…rather than…
 write down
 year after year

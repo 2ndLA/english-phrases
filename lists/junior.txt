@@ -20,8 +20,6 @@ achieve success
 across from
 add to
 add up to
-add … to …
-add… to…
 add…to…
 after a while
 after all
@@ -69,10 +67,8 @@ as though
 as usual
 as well
 as well as
-as … as
 ask for
 ask one's permission
-as… as
 as…as
 at breakfast
 at first
@@ -239,25 +235,15 @@ beg one's pardon
 beg sb. to do sth.
 beg to do
 begin with
-begin … with …
-begin… with…
 begin…with…
 believe in
 belong to
 between and
-between … and …
-between… and…
 between…and…
 beyond compare
 borrow from
-borrow … from …
-borrow… from…
 borrow…from…
 both and
-both … and
-both … and …
-both… and
-both… and…
 both…and
 both…and…
 break down
@@ -272,8 +258,6 @@ break upon
 bring out
 bring to
 bring up
-bring … to …
-bring… to…
 bring…to…
 build up
 by accident
@@ -343,10 +327,6 @@ come up with
 communicate with
 compare to
 compare with
-compare … to …
-compare … with …
-compare… to…
-compare… with…
 compare…to…
 compare…with…
 complain about
@@ -356,10 +336,6 @@ congratulate sb. on sth.
 congratulations to
 connect to
 connect with
-connect … to …
-connect … with …
-connect… to…
-connect… with…
 connect…to…
 connect…with…
 consist of
@@ -402,8 +378,6 @@ do well in
 do with
 dozens of
 draw from
-draw … from …
-draw… from…
 draw…from…
 dream of
 dress up
@@ -419,10 +393,6 @@ earn a living
 earn one's living
 eat up
 either or
-either … or
-either … or …
-either… or
-either… or…
 either…or
 either…or…
 encourage sb. to do sth.
@@ -438,8 +408,6 @@ even if
 even though
 ever since
 exchange with
-exchange … with …
-exchange… with…
 exchange…with…
 face to face
 fail in
@@ -461,10 +429,6 @@ feel like doing
 fight for
 fill in
 fill with
-fill … with
-fill … with …
-fill… with
-fill… with…
 fill…with
 fill…with…
 find out
@@ -494,8 +458,6 @@ from now on
 from then on
 from time to time
 from to
-from … to
-from… to
 from…to
 generally speaking
 get a ride
@@ -573,7 +535,6 @@ go on a picnic
 go on a vacation
 go on doing
 go on doing sth.
-go on doing …
 go on doing…
 go on to do
 go on to do sth.
@@ -640,8 +601,6 @@ have off
 have to
 have trouble doing
 have trouble doing sth.
-have … off
-have… off
 have…off
 hear about
 hear from
@@ -655,8 +614,6 @@ help sb. with sth.
 help to do
 help to do sth.
 help with
-help … out
-help… out
 help…out
 here and there
 hold a meeting
@@ -787,26 +744,18 @@ learn by heart
 learn by oneself
 learn from
 learn of
-learn … by heart
-learn… by heart
 learn…by heart
 leave a message
 leave alone
 leave for
-leave … alone
-leave… alone
 leave…alone
 lend to
-lend … to …
-lend… to…
 lend…to…
 less and less
 less than
 let down
 let in
 let out
-let … down
-let… down
 let…down
 lie down
 lie in
@@ -873,8 +822,6 @@ manage to do
 manage to do sth.
 marry sb.
 match with
-match … with …
-match… with…
 match…with…
 mean doing
 mean doing sth.
@@ -885,8 +832,6 @@ meet the needs of
 meet with
 millions of
 mistake for
-mistake … for …
-mistake… for…
 mistake…for…
 mix up
 mop the floor
@@ -900,10 +845,6 @@ my pleasure
 neck and neck
 neither does sb.
 neither nor
-neither … nor
-neither … nor …
-neither… nor
-neither… nor…
 neither…nor
 neither…nor…
 never before
@@ -919,31 +860,18 @@ not any more
 not at all
 not in the slightest
 not only but also
-not only … but also
-not only … but also …
-not only… but also
-not only… but also…
 not only…but also
 not only…but also…
 not so as
 not until
-not … any more
-not … at all
-not … in the slightest
-not … until …
 nothing but
 notice sb. do sth.
-not… any more
-not… at all
-not… in the slightest
-not… until…
 not…any more
 not…at all
 not…in the slightest
 not…until…
 now and then
 now that
-now that …
 now that…
 of course
 of one's own
@@ -966,8 +894,6 @@ on the earth
 on the map
 on the on hand
 on the on hand on the other hand
-on the on hand … on the other hand …
-on the on hand… on the other hand…
 on the on hand…on the other hand…
 on the other hand
 on the playground
@@ -988,10 +914,6 @@ one after another
 one another
 one by one
 one the other
-one … another …
-one … the other …
-one… another…
-one… the other…
 one…another…
 one…the other…
 open up
@@ -1007,8 +929,6 @@ part of
 pass away
 pass by
 pass on to
-pass on … to …
-pass on… to…
 pass on…to…
 pass the time
 pass through
@@ -1031,8 +951,6 @@ plenty of
 point out
 point to
 pour into
-pour … into …
-pour… into…
 pour…into…
 practice doing
 practice doing sth.
@@ -1042,25 +960,15 @@ praise sb. for sth.
 prefer to
 prefer to do rather than do
 prefer to do sth. rather than do sth.
-prefer … to …
-prefer… to…
 prefer…to…
 prevent from
 prevent from doing
 prevent from doing sth.
-prevent … from
-prevent … from doing sth.
-prevent … from …
-prevent… from
-prevent… from doing sth.
-prevent… from…
 prevent…from
 prevent…from doing sth.
 prevent…from…
 pros and cons
 protect from
-protect … from …
-protect… from…
 protect…from…
 provide for
 provide sb. with sth.
@@ -1079,10 +987,6 @@ put out
 put to use
 put up
 put up with
-put … into …
-put … to use
-put… into…
-put… to use
 put…into…
 put…to use
 quarrel about
@@ -1095,17 +999,11 @@ reach out to
 read a map
 read a newspaper
 receive from
-receive … from …
-receive… from…
 receive…from…
 refer to
 refuse to do
 refuse to do sth.
 regard as
-regard … as
-regard … as …
-regard… as
-regard… as…
 regard…as
 regard…as…
 rely on
@@ -1114,8 +1012,6 @@ remember doing sth.
 remind of
 remind sb. to do sth.
 remind to do
-remind … of …
-remind… of…
 remind…of…
 reply to
 result from
@@ -1141,16 +1037,12 @@ search for
 see a film
 see off
 see sb. off
-see … off
-see… off
 see…off
 sell out
 send for
 send out
 send to
 send up
-send … to …
-send… to…
 send…to…
 separate from
 set an example
@@ -1160,13 +1052,9 @@ set on fire
 set out
 set the alarm clock
 set up
-set … on fire
-set… on fire
 set…on fire
 shake hands with
 share with
-share … with …
-share… with…
 share…with…
 shortly after
 shoulder to shoulder
@@ -1195,20 +1083,14 @@ so far
 so far as
 so long as
 so that
-so … that
-so … that …
 solve the problems
 some day
 some others
 some time
-some … others …
-some… others…
 some…others…
 sooner or later
 sound like
 sound sleep
-so… that
-so… that…
 so…that
 so…that…
 speak highly of
@@ -1219,14 +1101,6 @@ spend doing
 spend doing sth.
 spend on
 spend on sth.
-spend … doing
-spend … doing sth.
-spend … on
-spend … on sth.
-spend… doing
-spend… doing sth.
-spend… on
-spend… on sth.
 spend…doing
 spend…doing sth.
 spend…on
@@ -1249,8 +1123,6 @@ stop doing sth.
 stop from
 stop to do
 stop to do sth.
-stop … from …
-stop… from…
 stop…from…
 study for
 succeed in
@@ -1313,8 +1185,6 @@ take time
 take to
 take up
 take with
-take … to …
-take… to…
 take…to…
 talk about
 talk of
@@ -1327,8 +1197,6 @@ tell a lie
 tell a story
 tell from
 tell the truth
-tell … from …
-tell… from…
 tell…from…
 thank for
 thank sb. for sth.
@@ -1337,8 +1205,6 @@ the day after tomorrow
 the day before yesterday
 the key to
 the more the more
-the more … the more …
-the more… the more…
 the more…the more…
 the other day
 the same as
@@ -1363,16 +1229,10 @@ to start with
 to tell the truth
 too much
 too to
-too … to
-too … to …
-too… to
-too… to…
 too…to
 too…to…
 treat as
 treat with
-treat … as …
-treat… as…
 treat…as…
 try doing
 try doing sth.
@@ -1392,8 +1252,6 @@ turn on
 turn out
 turn over
 turn up
-turn … into …
-turn… into…
 turn…into…
 up and down
 upside down
@@ -1444,8 +1302,6 @@ would love to
 would love to do
 would love to do sth.
 would rather than
-would rather … than …
-would rather… than…
 would rather…than…
 write down
 write to
