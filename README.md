@@ -2,6 +2,8 @@
 
 英语短语词库列表合集。
 
+⚠️ 少数短语从网络中零碎搜集而来，因此不保证完全符合对应阶段的范围。
+
 - [english-phrases](#english-phrases)
   - [词库列表](#词库列表)
   - [如何使用](#如何使用)
@@ -14,8 +16,8 @@
 
 - [x] [初中 (`junior.txt`, Junior High School)](./lists/junior.txt)
 - [x] [高中 (`senior.txt`, Senior High School)](./lists/senior.txt)
-- [ ] 四级 (`cet4.txt`, College English Test Band4)
-- [ ] 六级 (`cet6.txt`, College English Test Band6)
+- [ ] [🚧 四级 (`cet4.txt`, College English Test Band-4)](./lists/cet4.txt)
+- [ ] 六级 (`cet6.txt`, College English Test Band-6)
 - [ ] 考研 (`gee.txt`, )
 - [ ] 专四 (`tem4.txt`, )
 - [ ] 专八 (`tem8.txt`, )
@@ -47,5 +49,7 @@
 
 短语主要来自以下书籍（以及部分从网络中零碎搜集）。
 
-- [初中英语必备短语与句型 [Goodreads]](https://www.goodreads.com/book/show/58065021)
-- [高中英语必备短语与句型 [Goodreads]](https://www.goodreads.com/book/show/69016080)
+- [《初中英语必备短语与句型 (新东方考试研究中心)》[Goodreads]](https://www.goodreads.com/book/show/58065021)
+- [《高中英语必备短语与句型 (新东方考试研究中心)》[Goodreads]](https://www.goodreads.com/book/show/69016080)
+- [《四六级常考核心词组1500 (新东方考试研究中心)》[Goodreads]](https://www.goodreads.com/book/show/29551193-1500)
+- [《大学英语四、六级短语手册 (袁懋梓)》[Goodreads]](https://www.goodreads.com/book/show/29981212)
