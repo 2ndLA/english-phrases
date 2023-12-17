@@ -234,6 +234,7 @@ clear off
 clear up
 cling to
 close down
+close in on
 close up
 clutch at
 come about
@@ -664,6 +665,8 @@ hold up
 hold with
 hook up
 hum with
+hunger after
+hunger for
 hurry up
 hush up
 idle away
@@ -775,42 +778,119 @@ light on
 light up
 line up
 link up
+listen to
+live a lie
 live off
 live on
+live out
 live through
 live up to
+live with
+lock in
+lock up
+log in
+log out
 long for
 look after
+look ahead
+look around
+look at
+look back
+look back on
 look down on
 look down upon
+look for
+look forward to
+look in
 look into
+look like
+look on
+look out
+look out for
 look over
+look over one's shoulder
+look round
 look through
+look to
 look up
+look up to
+look upon
+lose heart
 lose one's head
 lose one's temper
 lose oneself in
 lose sight of
 lose track of
+major in
+make a difference
+make a fool of
+make a fuss of
+make a fuss over
+make a point of
+make a thing of
+make a thing out of
 make allowance for
+make allowances for
+make an example of
+make an exhibition of oneself
+make believe
 make for
+make friends
 make friends with
+make fun of
+make history
+make into
+make it
+make no bones about
+make of
 make off
+make one's way
 make out
 make peace
+make provision for
+make sb.s hair stand on end
+make sense
+make sure
+make the best of
 make the grade
+make the most of
 make up
+make up for
+make up one's mind
 make use of
 make way
 map out
+mark down
+mark off
+mark up
+marvel at
+may as well
+mean business
+measure up
 meet with
+mend one's ways
 mess about
 mess around
 mess up
 mess with
+minor in
 miss out
+mistake for
+mix up
 mop up
+move about
+move around
+move away
+move in on
+move on
+move up
+mow down
+nail down
+never mind
+nose about
+nose around
 nose out
+nose round
 not to mention
 owe to
 pack in
@@ -826,11 +906,15 @@ peg away at
 persist in
 pertain to
 pick on
+pick out
 pick to pieces
+pick up
 pile in
+pin down
 pine for
 plug in
 plump for
+poke fun at
 poke one's nose into
 polish off
 press on
@@ -844,6 +928,7 @@ pull together
 pull up
 put across
 put aside
+put down
 put forward
 put in
 put into effect
@@ -888,14 +973,20 @@ run up against
 scoff at
 screw up
 seal off
+see about
 see red
+see that
+see to
+see to it that
 send out
 serve out
 set about
 set aside
+set down
 set in
 set off
 set on
+set one's heart on
 set out
 settle on
 settle upon
@@ -905,6 +996,7 @@ shoot at
 shore up
 show up
 shrug off
+shut away
 shut down
 slip up
 smooth away
@@ -937,9 +1029,11 @@ surrender to
 take a fancy to
 take account of
 take advantage of
+take care
 take care of
 take down
 take effect
+take for
 take heart
 take hold of
 take into account
@@ -953,6 +1047,7 @@ take to task
 take up
 take up with
 tear down
+think back to
 think of
 think over
 think through
@@ -985,6 +1080,8 @@ turn up
 use up
 verge on
 walk out on
+watch out
+watch out for
 wave aside
 wear away
 wear off
@@ -999,5 +1096,84 @@ would rather…
 would rather…than
 would sonner…
 would sonner…than
+write down
 yearn for
 yield to
+spy on
+nose around
+nose round
+nose about
+not have a leg to stand on
+not to be sneezed at
+object to
+react against
+side against
+stand out against
+side with
+stand by
+occur to
+open up
+operate on
+ought to
+owe to
+ascribe to
+attribute to
+credit to
+own up
+pack away
+put away
+tidy away
+tuck away
+pack in
+give up
+pack off
+send away
+pack up
+palm off
+part company
+part company with
+split up
+part with
+dispense with
+give up
+do without
+go without
+participate in
+take part in
+pass away
+pass by
+pass on
+hand down
+hand on
+pass out
+pass over
+laugh at
+shrug off
+pass sb. off as
+pass sth. off as
+pass through
+pass up
+let slip
+throw away
+pat sb. on the back
+pay attention to
+pay back
+avenge oneself on
+get back at
+get even with
+pay off
+come off
+get ahead
+get on
+make the grade
+win out
+pay out
+pay up
+peel off
+persist in
+keep at
+peg away at
+stick at
+phase in
+phase out
+pick at
