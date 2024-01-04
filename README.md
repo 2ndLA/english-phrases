@@ -44,7 +44,7 @@
 
 ## LICENSE
 
-[CC BY-SA 4.0](./LICENSE).
+Copyright © [Shaobiao Lin](https://github.com/Octobug). [CC BY-SA 4.0](./LICENSE).
 
 ## References
 
