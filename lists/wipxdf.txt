@@ -41,6 +41,7 @@ be mad about
 be made up of
 be named after
 be to blame
+be traced to
 be used to doing sth.
 bear down on
 bear in mind
@@ -211,6 +212,7 @@ come round
 come through
 come to
 come to a close
+come to an end
 come to blows
 come to life
 come to no harm
@@ -248,12 +250,69 @@ cut in
 cut off
 cut out
 cut up
+dash off
+date back
+date from
+dawn on
+deal in
+deal with
+decide on
+decide upon
+die away
+die down
+die of
+die out
+dig in
+dig out
+dig up
+dip into
+dispose of
+do away with
+do for
+do justice to
+do one's best
+do one's bit
+do one's share
+do one's utmost
+do sb. a favor
+do sb. a good turn
+do sb. good
+do the honors
+do with
+do without
+double up
+draw in
+draw into
 draw lots
+draw on
+draw out
 draw to a close
+draw up
+dress up
+drive at
+drive away
+drop by
+drop in
+drop off
+drop out
+drum up
+dry out
+dry up
+dwell on
+dwell upon
+ease off
+ease up
+end in
+end up
+enter into
+enter on
+enter upon
+fade away
 get hold of
 get into debt
 get used to doing sth.
 glimpse at
+go all out
 go into effect
 go into operation
 have sth. to do with
@@ -271,4 +330,7 @@ stand in awe of
 substitute for
 suffer from
 take hold of
+take possession of
+trace back to
 treat with
+try one's best
