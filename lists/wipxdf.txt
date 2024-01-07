@@ -32,6 +32,7 @@ be bound up in
 be bound up with
 be composed of
 be connected with
+be considerate of
 be fed up with
 be friends with
 be in awe of
@@ -40,6 +41,9 @@ be in for
 be mad about
 be made up of
 be named after
+be related with
+be responsible for
+be taken as
 be to blame
 be traced to
 be used to doing sth.
@@ -91,6 +95,7 @@ bring into operation
 bring into play
 bring off
 bring on
+bring oneself to
 bring out
 bring round
 bring the house down
@@ -184,6 +189,7 @@ clean up
 clear away
 clear off
 clear up
+close a business
 close down
 close up
 come about
@@ -230,6 +236,7 @@ confide in
 cook up
 cool down
 cool off
+coordinate one's efforts to
 cope with
 could not help
 count down
@@ -240,6 +247,7 @@ count up
 count upon
 cover for
 cover up
+cross one's fingers
 cry out
 cry out for
 curl up
@@ -307,30 +315,467 @@ end up
 enter into
 enter on
 enter upon
+face up to
 fade away
+fall apart
+fall away
+fall behind
+fall for
+fall off
+fall on
+fall out
+fall prey to
+fall short of
+fall through
+fall to
+fall upon
+fight back
+fight off
+figure out
+fill in
+fill out
+fill up
+find fault with
+find out
+finish up
+fish for
+fit in with
+fit into
+fix on
+flick through
+foll around
+follow through
+follow up
+fool about
+foul up
+gain ground
+gain on
+gear up
+get about
+get ahead
+get along
+get around
+get at
+get away
+get back to
+get by
+get even with
 get hold of
+get in
+get into
+get into a jam
 get into debt
+get into hot water
+get nowhere
+get off
+get off the ground
+get on
+get on one's nerves
+get on sb.'s nerves
+get on with
+get out
+get out of the way
+get over
+get rid of
+get round
+get through
+get together
 get used to doing sth.
+give away
+give back
+give birth to
+give in
+give off
+give out
+give over to
+give rise to
+give up
+give way
+glance through
 glimpse at
+go about
+go after
+go against
+go ahead
 go all out
+go along
+go along with
+go around
+go at
+go away
+go back on
+go by
+go down
+go for
+go in for
+go into
+go into details
 go into effect
 go into operation
+go off
+go on
+go out
+go out of business
+go out of one's way
+go over
+go round
+go through
+go to court
+go to extremes
+go to pieces
+go under
+go up
+go wild
+go with
+go without
+go without saying
+go wrong
+grind on
+grind out
+grow into
+grow out
+grow out of
+grow up
+guard against
+hack into
+had rather
+had rather than
+hail from
+hammer away at
+hammer out
+hand back
+hand down
+hand in
+hand on
+hand out
+hand over
+hang about
+hang around
+hang in there
+hang on
+hang on to
+hang together
+hang up
+have a bearing on
+have an effect on
+have in mind
+have respect for
 have sth. to do with
+hinge on
+hinge upon
+hit back
+hit on
+hit upon
+hold back
+hold down
+hold fast to
+hold forth
+hold off
+hold on
+hold one's breath
+hold one's own
+hold out
+hold over
+hold together
+hold up
+hold with
+hook up
+hung up
+hush up
+improve on
+improve upon
+inquire after
+inquire into
+join hands
+join in
+join up
+join up with
+jump a queue
+jump the queue
+keep a secret
+keep abreast of
+keep an eye on
+keep at
+keep at a distance
+keep back
+keep clear
+keep down
+keep from
 keep in mind
+keep in touch
+keep off
+keep on
+keep one's eyes open
+keep one's fingers crossed
+keep pace with
+keep to
+keep track of
+keep up
+keep up with
+key in
+kick in
+kick off
+kick out
+kick up
+kill two birds with one stone
+knock about
+knock around
+knock down
+knock off
+knock on
+knock out
+knock over
+lack of
+lash out at
+laugh at
+laugh off
+launch into
+lay aside
+lay claim to
+lay down
+lay off
+lay on
+lay out
+lay over
+lay up
+lead up to
+lean on
+leave alone
+leave behind
+leave off
+leave out
+lend sb. a hand
+let alone
+let go of
+let in
+let off
+let out
+let slip
+let up
+level off
+level out
+lie behind
+lie down
+lie in
+light on
+light up
+line up
+link up
+live a lie
+live off
+live on
+live out
+live through
+live up to
+live with
+lock in
+lock up
+log in
+log out
+look ahead
+look around
+look as
+look at
+look back
+look down on
+look down upon
+look for
+look forward to
+look in
+look into
+look like
+look on
+look out for
+look over
+look round
+look sth. up
+look through
+look to
+look up
+look up to
+look upon
+lose heart
+lose one's temper
+lose oneself in
+lose sight of
+lose track of
+make a confession
+make a difference
+make a fool of
+make a fuss of
+make a fuss over
+make a point of
+make a resolution
+make a thing of
+make a thing out of
 make a visit to
+make allowances for
+make believe
+make for
 make friends with
+make fun of
+make game of
+make into
+make it
+make no bones about
+make of
+make off
+make one's way
+make out
+make peace
+make sense
+make sure
+make the best of
+make the most of
+make up
+make up for
+make up one's mind
+make use of
+make way
+map out
+mark down
+mark off
+mark up
+mean business
+measure up
+meet with
+mend one's ways
+mess about
+mess around
+mess up
+mess with
+miss out
+mix up
+mop up
+move around
+move away
+move in on
+move on
+move up
+mow down
+nail down
+nose about
+nose around
+open up
+operate on
+own up
+pack away
+pack in
+pack off
+pack up
+part company with
+part with
+pass away
+pass by
+pass off as
+pass on
+pass out
+pass over
+pass up
+pay attention to
+pay back
+pay off
+pay out
+pay up
+peel off
+phase in
+phase out
+pick at
+pick on
+pick out
+pick to pieces
+pick up
+pile up
+pin down
+pitch in
+plan on
+play a part in
+play at
+play back
+play down
+play off
+play off against
+play on
+play out
+play up
+plug in
+point out
+poke about
+poke around
+poke fun at
+poke one's nose into
+polish off
+pop up
+pour into
+pour out
+press on
+prick up one's ears
+prop up
+provide for
+pull apart
+pull away
+pull down
+pull in
+pull off
+pull one's leg
+pull one's weight
+pull out
+pull over
+pull through
+pull to pieces
+pull together
+pull up
+push about
+push around
+push on
+push through
+put across
+put aside
+put away
+put down
+put forward
+put in
 put into effect
 put into operation
+put into practice
+put off
+put on
+put one's heads together
+put out
+put over
+put the screws on
+put through
+put to death
+put to use
+put up
+put up with
+queue up
 rack with
 reckon in
+register for
 result in
+run after
 run into
+scheme out
 set the ball rolling
+shut sth. down
+sign up for
+sort things out
+speak for itself
+speak for themselves
 stand in awe of
+stand up to
+stick one's nose into
 substitute for
 suffer from
+take full advantage of
 take hold of
+take it seriously
+take legal action
 take possession of
+thumb down
 trace back to
 treat with
 try one's best
+would rather
+would rather than
