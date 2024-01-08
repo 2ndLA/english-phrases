@@ -55,6 +55,7 @@ bear up
 bear upon
 bear with
 beat down
+beat one's brains out
 beat up
 become of
 beg off
@@ -171,6 +172,8 @@ catch out
 catch sight of
 catch up
 catch up with
+center around
+center on
 chance on
 chance upon
 change one's mind
@@ -743,6 +746,7 @@ put on
 put one's heads together
 put out
 put over
+put the screws down
 put the screws on
 put through
 put to death
@@ -750,12 +754,53 @@ put to use
 put up
 put up with
 queue up
+rack one's brains
 rack with
+rake up
+rattle off
+rattle on
 reckon in
+reckon with
+reconcile with
+refer to as
+refer to…as…
+regarded as
 register for
+rein in
+rely on
 result in
+revolve around
+ride out
+ring off
+ring up
+rip apart
+rip off
+rise above
+rise to
+rise up
+roll in
+roll up
+root out
+rope in
+round off
+round up
+rub it in
+rule out
+run across
 run after
+run away with
+run down
 run into
+run off
+run off with
+run out
+run out of
+run over
+run through
+run to
+run up
+run up against
+rush out
 scheme out
 set the ball rolling
 shut sth. down
@@ -763,8 +808,10 @@ sign up for
 sort things out
 speak for itself
 speak for themselves
+spirit away
 stand in awe of
 stand up to
+steal away
 stick one's nose into
 substitute for
 suffer from
