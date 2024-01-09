@@ -9,6 +9,7 @@ add in
 add on
 add up
 add up to
+adhere to
 admit of
 allow for
 allow of
@@ -38,9 +39,11 @@ be friends with
 be in awe of
 be in debt
 be in for
+be likely to
 be mad about
 be made up of
 be named after
+be ready
 be related with
 be responsible for
 be taken as
@@ -179,6 +182,7 @@ chance upon
 change one's mind
 change over
 charge sb. with sth.
+chase down
 cheat on
 check in
 check out
@@ -195,6 +199,7 @@ clear up
 close a business
 close down
 close up
+clutch at
 come about
 come across
 come along
@@ -235,6 +240,7 @@ come up for
 come up to
 come up with
 commit a crime
+comply with
 confide in
 cook up
 cool down
@@ -340,11 +346,14 @@ fill out
 fill up
 find fault with
 find out
+find out about
 finish up
 fish for
 fit in with
 fit into
 fix on
+flare out
+flare up
 flick through
 foll around
 follow through
@@ -379,6 +388,7 @@ get on with
 get out
 get out of the way
 get over
+get ready
 get rid of
 get round
 get through
@@ -406,6 +416,7 @@ go along with
 go around
 go at
 go away
+go away from
 go back on
 go by
 go down
@@ -485,10 +496,13 @@ hold with
 hook up
 hung up
 hush up
+idle about
 improve on
 improve upon
 inquire after
 inquire into
+insist on
+interfere in
 join hands
 join in
 join up
@@ -500,6 +514,7 @@ keep abreast of
 keep an eye on
 keep at
 keep at a distance
+keep away from
 keep back
 keep clear
 keep down
@@ -546,6 +561,7 @@ lean on
 leave alone
 leave behind
 leave off
+leave office
 leave out
 lend sb. a hand
 let alone
@@ -681,6 +697,7 @@ pay off
 pay out
 pay up
 peel off
+persist in
 phase in
 phase out
 pick at
@@ -733,6 +750,7 @@ push around
 push on
 push through
 put across
+put an end to
 put aside
 put away
 put down
@@ -768,6 +786,8 @@ regarded as
 register for
 rein in
 rely on
+resign from
+resist to
 result in
 revolve around
 ride out
@@ -785,6 +805,7 @@ rope in
 round off
 round up
 rub it in
+rule against
 rule out
 run across
 run after
@@ -801,28 +822,199 @@ run to
 run up
 run up against
 rush out
+save for
+save up
+scale down
 scheme out
+scrape by
+scrape through
+scrape together
+scrape up
+screw up
+seal off
+see about
+see eye to eye
+see off
+see out
+see red
+see through
+see to
+see to it that
+seek out
+seize on
+seize up
+seize upon
+sell off
+sell on
+sell out
+sell up
+send away
+send for
+send in
+send off
+send off for
+send up
+serve out
+serve up
+set about
+set against
+set apart
+set aside
+set back
+set down
+set fire to
+set forth
+set free
+set in
+set off
+set on
+set one's heart on
+set out
 set the ball rolling
+set up
+settle down
+settle for
+settle in
+settle into
+settle on
+settle up
+settle upon
+sew up
+shade into
+shake down
+shake off
+shake up
+shape up
+shoot down
+shoot up
+shop around
+shout down
+shove off
+show off
+show up
+shrug away
+shrug off
+shut away
+shut down
+shut in
+shut off
+shut out
 shut sth. down
+shut up
+sign away
+sign for
+sign in
+sign off
+sign on
+sign out
+sign up
 sign up for
+sit around
+sit back
+sit by
+sit out
+sit up
+size up
+sketch out
+sleep off
+sleep through
+slip by
+slip in
+slip through
+slip up
+slow down
+slow up
+snap out of
+snap up
+sneak in
+sniff out
+sort out
 sort things out
+space out
+speak for
 speak for itself
 speak for themselves
+speak out
+speak up
+speed up
+spell out
+spin out
 spirit away
+spit out
+split up
+spread out
+spring up
+square off
+square up
+stab in the back
+stamp on
+stamp out
+stand a chance of
+stand by
+stand down
+stand for
+stand in
 stand in awe of
+stand off
+stand on
+stand out
+stand up
+stand up for
 stand up to
+stay on
+stay out
+stay put
+stay up
+stay up late
 steal away
+steam up
+steer clear of
+step aside
+step down
+step in
+step up
+stick around
+stick at
+stick by
 stick one's nose into
+stick out for
+stick to
+stick together
+stick up for
+stick with
+stir up
+stock up
+stop off
+stop over
+strike off
+strike out
+strike up
+string along
+string out
+strip off
 substitute for
+suck up
 suffer from
+suffer with
+sum up
+swear by
+swear in
+swear off
+switch off
+switch on
 take full advantage of
+take hold
 take hold of
 take it seriously
 take legal action
+take off
 take possession of
+tend to
 thumb down
 trace back to
 treat with
 try one's best
+vote down
+work out
 would rather
 would rather than
