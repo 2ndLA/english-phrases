@@ -1,7 +1,12 @@
 abandon oneself to
 abide by
+above all
+above board
+above one's head
+according to
 account for
 accuse sb. of sth.
+across the board
 act on
 act out
 act up
@@ -11,12 +16,75 @@ add up
 add up to
 adhere to
 admit of
+after all
+ahead of
+ahead of time
 allow for
 allow of
 amount to
 answer for
 apply for
+around the corner
+as a matter of fact
+as a result
+as a rule
+as a rule of thumb
+as a whole
+as far as
+as follows
+as for
+as much
+as often as not
+as regards
+as to
+as well
+as yet
 associate with
+at a glance
+at a loss
+at a pinch
+at a time
+at all costs
+at all events
+at all times
+at any cost
+at any rate
+at ease
+at fault
+at first
+at first blush
+at first glance
+at first sight
+at full blast
+at hand
+at heart
+at intervals
+at large
+at last
+at least
+at leisure
+at length
+at liberty
+at long last
+at most
+at no time
+at one time
+at one's disposal
+at peace
+at present
+at risk
+at sb.'s disposal
+at the beginning
+at the cost of
+at the latest
+at the mercy of
+at the moment
+at the risk of
+at the same time
+at times
+at will
+at work
+attend upon
 avail oneself of
 avail oneself to
 back away
@@ -29,6 +97,7 @@ barge in
 be about to
 be addicted to
 be aware of
+be behind bars
 be bound up in
 be bound up with
 be composed of
@@ -62,7 +131,18 @@ beat one's brains out
 beat up
 become of
 beg off
+behind bars
+behind the scenes
+behind the times
 believe in
+beside the point
+beyond a doubt
+beyond all question
+beyond belief
+beyond compare
+beyond doubt
+beyond measure
+blame for
 block in
 block off
 block up
@@ -122,6 +202,7 @@ build up
 bump into
 bundle up
 burn down
+burn oneself out
 burn out
 burn up
 burst into
@@ -130,6 +211,26 @@ buy into
 buy off
 buy out
 buy up
+by accident
+by all means
+by chance
+by comparison
+by contrast
+by courtesy of
+by degrees
+by error
+by far
+by heart
+by leaps and bounds
+by means of
+by mistake
+by no means
+by the book
+by the same token
+by the way
+by trial and error
+by turns
+by virtue of
 call for
 call in
 call in question
@@ -163,6 +264,8 @@ cast about for
 cast around
 cast around for
 cast aside
+cast light on
+cast light upon
 cast lots
 cast off
 cast out
@@ -200,8 +303,10 @@ close a business
 close down
 close up
 clutch at
+collaborate with
 come about
 come across
+come after
 come along
 come apart
 come around
@@ -324,12 +429,14 @@ end up
 enter into
 enter on
 enter upon
+except for
 face up to
 fade away
 fall apart
 fall away
 fall behind
 fall for
+fall in love with
 fall off
 fall on
 fall out
@@ -356,6 +463,7 @@ flare out
 flare up
 flick through
 foll around
+follow the example of
 follow through
 follow up
 fool about
@@ -418,6 +526,7 @@ go at
 go away
 go away from
 go back on
+go behind bars
 go by
 go down
 go for
@@ -499,6 +608,11 @@ hush up
 idle about
 improve on
 improve upon
+in a pinch
+in comparison
+in contrast
+in leaps and bounds
+in the first place
 inquire after
 inquire into
 insist on
@@ -580,6 +694,7 @@ light on
 light up
 line up
 link up
+listen to
 live a lie
 live off
 live on
@@ -636,12 +751,14 @@ make fun of
 make game of
 make into
 make it
+make mention of
 make no bones about
 make of
 make off
 make one's way
 make out
 make peace
+make reference to
 make sense
 make sure
 make the best of
@@ -677,6 +794,7 @@ nose about
 nose around
 open up
 operate on
+over one's head
 own up
 pack away
 pack in
@@ -693,6 +811,7 @@ pass over
 pass up
 pay attention to
 pay back
+pay no attention to
 pay off
 pay out
 pay up
@@ -731,6 +850,8 @@ pour out
 press on
 prick up one's ears
 prop up
+protest against
+protest against sth.
 provide for
 pull apart
 pull away
@@ -753,6 +874,7 @@ put across
 put an end to
 put aside
 put away
+put behind bars
 put down
 put forward
 put in
@@ -803,10 +925,12 @@ roll up
 root out
 rope in
 round off
+round the corner
 round up
 rub it in
 rule against
 rule out
+run a risk
 run across
 run after
 run away with
@@ -955,6 +1079,7 @@ stand down
 stand for
 stand in
 stand in awe of
+stand in for sb.
 stand off
 stand on
 stand out
@@ -1002,19 +1127,179 @@ swear in
 swear off
 switch off
 switch on
+tag along
+tail after
+tail off
+take a chance
+take a delight in
+take a fancy to
+take a hand in
+take account of
+take advantage of
+take after
+take against
+take apart
+take away
+take back
+take care
+take care of
+take care over
+take charge of
+take cover
+take down
+take effect
+take exception to
+take for granted
 take full advantage of
 take hold
 take hold of
+take in
+take in one's stride
+take into account
+take into consideration
+take it easy
 take it seriously
 take legal action
+take note of
+take notice
 take off
+take on
+take one's breath away
+take out
+take over
+take pains
+take part in
+take place
 take possession of
+take stock of
+take the place of
+take to
+take turns
+take up
+take…by surprise
+take…for granted
+take…into account
+take…into consideration
+talk back
+talk down to
+talk into
+talk out of
+talk over
+tangle with
+team up
+tear apart
+tear at
+tear away
+tear down
+tear into
+tear up
+tell a white lie
+tell apart
+tell off
 tend to
+think back
+think back to
+think of
+think out
+think over
+think through
+think up
+throw away
+throw in
+throw light on
+throw light upon
+throw off
+throw out
+throw up
 thumb down
+tidy away
+tie down
+tie in with
+tie up
+tighten up
+tip off
+tire out
+to the utmost
+touch down
+touch off
+touch on
+touch upon
 trace back to
+track down
+trade in
+trade off
+trade on
+trade upon
+trail away
+trail off
+treat of
 treat with
+trip up
+try on
 try one's best
+try out
+tuck away
+tuck in
+tuck up
+tumble to
+tune in to
+turn a blind eye to
+turn away
+turn back
+turn down
+turn in
+turn into
+turn off
+turn on
+turn out
+turn over
+turn round
+turn the tables
+turn the tide
+turn to
+turn up
+use up
+used to
 vote down
+vote in
+wade through
+wait for
+wait on
+wait upon
+wake up
+wake up to
+walk out
+walk over
+walk up
+wall in
+warm up
+wash one's hands
+wash out
+wash up
+wave aside
+wear away
+wear off
+wear out
+weigh against
+weigh up
+win out
+win over
+win through
+win up
+wind up
+wink at
+wipe out
+without compare
+work at
+work off
+work on
 work out
+work together with
+work up
+worth one's salt
 would rather
 would rather than
+wrap up
+write down
+write off
+zip up
