@@ -5,13 +5,13 @@
 ⚠️ 少数短语从网络中零碎搜集而来，因此不保证完全符合对应阶段的范围。
 
 - [english-phrases](#english-phrases)
-  - [词库列表](#词库列表)
+  - [短语列表](#短语列表)
   - [如何使用](#如何使用)
     - [条目重复说明](#条目重复说明)
   - [LICENSE](#license)
   - [References](#references)
 
-## 词库列表
+## 短语列表
 
 - [x] [初中 (`junior.txt`, Junior High School)](./lists/junior.txt)
 - [x] [高中 (`senior.txt`, Senior High School)](./lists/senior.txt)
