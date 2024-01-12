@@ -15,9 +15,9 @@
 
 - [x] [初中 (`junior.txt`, Junior High School)](./lists/junior.txt)
 - [x] [高中 (`senior.txt`, Senior High School)](./lists/senior.txt)
-- [ ] [🚧 四级 (`cet4.txt`, College English Test Band-4)](./lists/cet4.txt)
+- [x] [四级 (`cet4.txt`, College English Test Band-4)](./lists/cet4.txt)
 - [ ] [🚧 六级 (`cet6.txt`, College English Test Band-6)](./lists/cet6.txt)
-- [ ] 考研 (`npee.txt`, National Postgraduate Entrance Examination)
+- [ ] [🚧 考研 (`npee.txt`, National Postgraduate Entrance Examination)](./lists/npee.txt)
 - [ ] 专四 (`tem4.txt`, ) `⚠️ 零碎搜集`
 - [ ] 专八 (`tem8.txt`, ) `⚠️ 零碎搜集`
 - [ ] 雅思 (`ielts.txt`, )
