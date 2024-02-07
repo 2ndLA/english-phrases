@@ -16,13 +16,13 @@
 - [x] [初中 (`junior.txt`, Junior High School)](./lists/junior.txt)
 - [x] [高中 (`senior.txt`, Senior High School)](./lists/senior.txt)
 - [x] [四级 (`cet4.txt`, College English Test Band 4)](./lists/cet4.txt)
-- [ ] [🚧 六级 (`cet6.txt`, College English Test Band 6)](./lists/cet6.txt)
+- [x] [六级 (`cet6.txt`, College English Test Band 6)](./lists/cet6.txt)
 - [ ] [🚧 考研 (`npee.txt`, National Postgraduate Entrance Examination)](./lists/npee.txt)
-- [ ] [🚧 专四 (`tem4.txt`, Test for English Majors Band 4)](./lists/tem4.txt) `⚠️ 零碎搜集`
-- [ ] 专八 (`tem8.txt`, Test for English Majors Band 8) `⚠️ 零碎搜集`
-- [ ] 雅思 (`ielts.txt`, )
-- [ ] 托福 (`toefl.txt`, )
-- [ ] GRE (`gre.txt`, )
+- [ ] [🚧 专四 (`tem4.txt`, Test for English Majors Band 4)](./lists/tem4.txt) ⚠️`零碎搜集`
+- [ ] 专八 (`tem8.txt`, Test for English Majors Band 8) ⚠️`零碎搜集`
+- [ ] 雅思 (`ielts.txt`, International English Language Testing System)
+- [ ] 托福 (`toefl.txt`, Test of English as a Foreign Language)
+- [ ] GRE (`gre.txt`, Graduate Record Examination)
 
 ## 如何使用
 
@@ -50,7 +50,7 @@ Copyright © [Shaobiao Lin](https://github.com/Octobug). [CC BY-SA 4.0](./LICENS
 
 短语主要来自以下书籍（以及部分从网络中零碎搜集）：
 
-- [《初中英语必备短语与句型 (新东方考试研究中心)》](https://book.douban.com/subject/30713267/) *book.douban.com*.
-- [《高中英语必备短语与句型 (新东方考试研究中心)》](https://www.goodreads.com/book/show/69016080) *goodreads.com*.
-- [《四六级常考核心词组1500 (新东方考试研究中心)》](https://www.goodreads.com/book/show/29551193-1500) *goodreads.com*.
-- [《大学英语四、六级短语手册 (袁懋梓)》](https://www.goodreads.com/book/show/29981212) *goodreads.com*.
+- [《初中英语必备短语与句型》](https://book.douban.com/subject/30713267/)新东方考试研究中心. *book.douban.com*.
+- [《高中英语必备短语与句型》](https://www.goodreads.com/book/show/69016080)新东方考试研究中心. *goodreads.com*.
+- [《四六级常考核心词组1500》](https://www.goodreads.com/book/show/29551193-1500)新东方考试研究中心. *goodreads.com*.
+- [《大学英语四、六级短语手册》](https://www.goodreads.com/book/show/29981212)袁懋梓. *goodreads.com*.

@@ -23,6 +23,7 @@ agree upon
 aim at
 allow for
 allow of
+allude to
 amount to
 angle for
 answer for
@@ -30,6 +31,7 @@ appeal to
 apply to
 approve of
 approximate to
+arise from
 ascribe to
 ask after
 ask for
@@ -47,6 +49,7 @@ back off
 back out
 back up
 backwards
+ban from
 bank on
 bargain for
 bargain on
@@ -85,6 +88,7 @@ bend over
 bend over backwards
 blame on
 blame upon
+blaze a trail
 block in
 block off
 block up
@@ -93,11 +97,13 @@ blow up
 board up
 boast about
 boast of
+boid over
 boil down to
 boil over
 book in
 border on
 bounce back
+bow out
 box inquire
 branch out
 break away
@@ -209,7 +215,9 @@ catch one's breath
 catch out
 catch sb.s eye
 catch sight of
+catch up
 catch up with
+center around
 chance on
 chance upon
 change hands
@@ -269,6 +277,7 @@ come to life
 come to light
 come to no harm
 come to one's senses
+come to run into
 come to terms
 come true
 come under
@@ -290,6 +299,7 @@ confide in
 conform to
 congratulate on
 consent to
+consider as
 consist in
 consist of
 contribute to
@@ -316,6 +326,7 @@ cram in
 crawl with
 credit to
 crop up
+cross off
 cross out
 crowd in
 cry out for
@@ -355,10 +366,13 @@ die down
 die for
 die of
 die out
+differentiate between
 dig in
 dig out
 dig up
 dip into
+discriminate between
+dish off
 dish out
 dispense with
 dispose of
@@ -367,6 +381,7 @@ distinguish between
 do a bunk
 do away with
 do for
+do harm to
 do justice to
 do one's best
 do one's bit
@@ -393,6 +408,7 @@ draw upon
 dream of
 dream up
 dress up
+drink in
 drive at
 drive away
 drop away
@@ -446,6 +462,7 @@ feed upon
 feed with
 feel for
 feel like
+feel out
 feel the pinch
 fiddle about
 fiddle around
@@ -543,6 +560,7 @@ give out
 give over to
 give rise to
 give up
+give vent to
 give way
 go about
 go about with
@@ -624,8 +642,11 @@ hang round
 hang together
 hang up
 hang upon
+harp on
+harp upon
 have a bearing on
 have a good time
+have a hand in
 have a thing about
 have an effect on
 have in mind
@@ -844,6 +865,7 @@ make it
 make no bones about
 make of
 make off
+make off with
 make one's way
 make out
 make peace
@@ -891,187 +913,558 @@ nose about
 nose around
 nose out
 nose round
+not have a leg to stand on
+not to be sneezed at
 not to mention
+object to
+occur to
+open up
+operate on
+originate from
+originate in
+ought to
 owe to
+own up
+pack away
 pack in
+pack off
+pack up
+palm off
 pant for
+part company
+part company with
 part with
 participate in
+pass away
+pass by
 pass on
+pass out
 pass over
+pass sb. off as
+pass sth. off as
+pass through
 pass up
+pat sb. on the back
+pay attention to
 pay back
 pay off
+pay out
+pay up
+peck at
+peel off
 peg away at
 persist in
 pertain to
+phase in
+phase out
+pick at
 pick on
 pick out
+pick sb.s brains
 pick to pieces
 pick up
 pile in
+pile up
 pin down
 pine for
+pitch in
+plan on
+play a part in
+play at
+play back
+play down
+play havoc with
+play it safe
+play off against
+play on
+play out
+play safe
+play second fiddle to
+play up
+play upon
+play with fire
 plug in
 plump for
+point out
+poke about
+poke around
 poke fun at
 poke one's nose into
+poke round
 polish off
+pop up
+pour into
+pour out
+prefer to
+preside over
 press on
+presume on
+presume upon
+prevail on
 prevail over
+prevail upon
+prey on
+prick up one's ears
+profit by
+profit from
+prohibit from
 prop up
+provide for
+provide with
+puff out
+puff up
+pull apart
+pull away
 pull down
 pull in
 pull off
+pull one's weight
+pull out
+pull over
+pull sb.s leg
 pull through
+pull to pieces
 pull together
 pull up
+push around
+push on
+push through
+put a premium on
 put across
 put aside
+put away
 put down
 put forward
 put in
+put in a good word for
+put in a word for
 put into effect
 put into operation
 put into practice
 put off
 put on
+put one's heads together
 put out
+put over
+put the screw on
+put the screws on
 put through
+put to death
 put to use
 put up
 put up with
+quarrel with
+queue up
+rack one's brains
+rail against
+rail at
+rake in
+rake up
 range over
+rattle off
+rattle on
+react against
+read between the lines
+read out
 reckon on
 reckon upon
 reckon with
+reconcile to
+reconcile with
+reel off
 refer to
+refer to sb. as
+refer to sth. as
+regard as
+rein in
 relate to
 rely on
 rely upon
+remember to
+require of
 reside in
+resign oneself to
 resort to
+respond to
 rest on
 rest upon
+result from
 result in
+revolve around
 rid of
 ride out
 ring off
 ring up
+rip apart
+rip off
 rise above
+rise to
+rise up
 rob of
+roll in
+roll up
+root out
+rope in
+round off
+round up
+rub it in
+rule out
 run across
+run away with
 run down
 run into
 run off
+run off with
 run out
 run out of
 run over
+run riot
 run through
 run to
+run up
 run up against
+rush out
+rustle up
+sail through
+save up
 scoff at
+scrape through
+scrape together
+scrape up
 screw up
 seal off
 see about
+see eye to eye
+see off
+see out
 see red
 see that
+see through
 see to
 see to it that
+seek out
+seize on
+seize up
+seize upon
+sell off
+sell on
+sell out
+sell up
+send away
+send for
+send in
+send off
 send out
+send up
 serve out
+serve sb. right
+serve up
+set a limit to
 set about
+set against
+set apart
 set aside
+set back
 set down
+set fire to
+set forth
+set free
 set in
 set off
 set on
 set one's heart on
 set out
+set sail
+set store by
+set the pace
+set up
+settle down
+settle for
+settle in
+settle into
 settle on
+settle up
 settle upon
 sew up
+shade into
+shake down
 shake off
+shake up
+shape up
 shoot at
+shoot down
+shoot up
+shop around
+shop round
 shore up
+shout down
+show in
+show off
+show out
+show to
 show up
 shrug off
 shut away
 shut down
+shut in
+shut off
+shut out
+shut up
+shy away from
+side against
+side with
+sign away
+sign for
+sign in
+sign off
+sign on
+sign out
+sign up
+single out
+sink in
+sit around
+sit back
+sit by
+sit down
+sit in on
+sit out
+sit through
+sit up
+size up
+sketch out
+sleep off
+sleep through
+slip in
+slip through
 slip up
+slow down
+slow up
+smell of
 smooth away
+snap out of
+snap up
 snatch at
 sniff out
+soak up
 sort out
+sound out
+space out
+spark off
+speak for
+speak out
+speak up
+speculate about
+speed up
+spell out
+spin out
+spit out
+split up
+sponge off
+spread out
+spring up
+sprout up
+spy on
+square off
+square up
+stab sb. in the back
+stamp on
+stamp out
+stand a chance of
 stand by
+stand down
 stand for
 stand in
 stand in awe of
+stand off
+stand out
+stand out against
+stand up
+stand up for
+stand up to
 start off
 start on
+start out
+start up
+stay on
+stay out
+stay put
+stay up
+steam up
+steer clear of
+stem from
+step aside
+step down
 step in
+step up
+stick around
 stick at
 stick by
+stick one's nose into
 stick out
+stick out for
 stick to
 stick together
+stick up for
+stick with
+stir up
+stock up
 stop by
 stop off
 stop over
 strike off
+strike out
+strike up
+string along
+string out
+strip off
 stumble across
 stumble on
 stumble upon
 sub for
+subject to
 submit to
+subscribe to
 substitute for
+suck up
+suffer from
+suffice it to say that
+sum up
 surrender to
+swear by
+swear in
+swear off
+switch off
+switch on
+tag along
+tail off
+take a chance
 take a fancy to
+take a gamble
+take a hand in
+take a seat
+take aback
 take account of
 take advantage of
+take after
+take against
+take apart
+take as
+take away
+take back
+take by surprise
 take care
 take care of
+take charge
+take cover
+take delight in
 take down
 take effect
+take exception to
 take for
+take for granted
 take heart
 take hold of
+take in
+take in one's stride
 take into account
 take into consideration
+take into one's confidence
+take it easy
+take leave
+take note of
 take off
+take on
+take one's cue from
+take one's leave
+take one's leave of
+take one's time
+take out
+take over
+take pains
+take part
 take part in
 take place
+take root
+take sb.s breath away
+take shape
+take stock of
 take the place of
+take the plunge
 take to
+take to heart
 take to task
+take turns
 take up
 take up with
+take with a grain of salt
+take with a pinch of salt
+talk back
+talk down to
+talk into
+talk out of
+talk over
+talk sense
+talk through one's hat
+tangle with
+taste of
+team up
+tear apart
+tear at
+tear away
 tear down
+tear into
+tear up
+tell a white lie
+tell apart
+tell from
+tell off
+tell the truth
+tend to
+think back
 think back to
+think better of
 think of
+think out
 think over
 think through
+think up
 thirst after
 thirst for
+thrash out
 throw away
+throw in
+throw light on
+throw light upon
 throw off
+throw one's weight about
+throw one's weight around
 throw out
+throw up
+thrust at
 thumb through
 tick away
 tick by
 tide over
+tidy away
 tie in with
 tie up
 to say nothing of
+touch down
+touch off
 touch on
 touch upon
+trail away
+trail off
 treat of
 trifle with
 trip up
 trust in
 trust to
 try one's best
+tuck away
 turn in
+turn off
+turn on
 turn one's back on
 turn out
 turn over
@@ -1079,6 +1472,9 @@ turn to
 turn up
 use up
 verge on
+view as
+walk away with
+walk off with
 walk out on
 watch out
 watch out for
@@ -1099,81 +1495,6 @@ would sonner…than
 write down
 yearn for
 yield to
-spy on
-nose around
-nose round
-nose about
-not have a leg to stand on
-not to be sneezed at
-object to
-react against
-side against
-stand out against
-side with
-stand by
-occur to
-open up
-operate on
-ought to
-owe to
-ascribe to
-attribute to
-credit to
-own up
 pack away
 put away
-tidy away
 tuck away
-pack in
-give up
-pack off
-send away
-pack up
-palm off
-part company
-part company with
-split up
-part with
-dispense with
-give up
-do without
-go without
-participate in
-take part in
-pass away
-pass by
-pass on
-hand down
-hand on
-pass out
-pass over
-laugh at
-shrug off
-pass sb. off as
-pass sth. off as
-pass through
-pass up
-let slip
-throw away
-pat sb. on the back
-pay attention to
-pay back
-avenge oneself on
-get back at
-get even with
-pay off
-come off
-get ahead
-get on
-make the grade
-win out
-pay out
-pay up
-peel off
-persist in
-keep at
-peg away at
-stick at
-phase in
-phase out
-pick at
