@@ -19,7 +19,7 @@
 - [x] [六级 (`cet6.txt`, College English Test Band 6)](./lists/cet6.txt)
 - [ ] [🚧 考研 (`npee.txt`, National Postgraduate Entrance Examination)](./lists/npee.txt)
 - [ ] [🚧 专四 (`tem4.txt`, Test for English Majors Band 4)](./lists/tem4.txt) ⚠️`零碎搜集`
-- [ ] 专八 (`tem8.txt`, Test for English Majors Band 8) ⚠️`零碎搜集`
+- [ ] [🚧 专八 (`tem8.txt`, Test for English Majors Band 8)](./lists/tem8.txt) ⚠️`零碎搜集`
 - [ ] 雅思 (`ielts.txt`, International English Language Testing System)
 - [ ] 托福 (`toefl.txt`, Test of English as a Foreign Language)
 - [ ] GRE (`gre.txt`, Graduate Record Examination)
