@@ -120,6 +120,131 @@ ask over
 ask round
 ask…over
 ask…round
+assert oneself
+assign to
+associate with
+associate…with
+assure sb. of sth.
+at a  standstill
+at a loss
+at a premium
+at all costs
+at all events
+at any rate
+at best
+at birth
+at ease
+at every turn
+at fault
+at first glance
+at first sight
+at hand
+at hazard
+at intervals
+at issue
+at large
+at least
+at leisure
+at length
+at liberty
+at most
+at no time
+at odds
+at odds with
+at once
+at one time
+at one's convenience
+at one's disposal
+at one's expense
+at one's wits' end
+at present
+at random
+at risk
+at sea
+at stake
+at the best
+at the cost of
+at the expense of
+at the height of
+at the mercy of
+at the moment
+at the most
+at the outset
+at the prospect of
+at the rate of
+at the rear of
+at the risk of
+at the start
+at the thought of
+at the time of
+at the time that
+at the very least
+at the worst
+at times
+at will
+at work
+at worst
+attach importance to
+attach oneself to
+attend to
+attitude toward
+attitude towards
+attract one's attention
+attribute…to
+avail oneself of
+available for
+away from
+back and forth
+back away
+back down
+back off
+back out
+back up
+bang against
+bang into
+bank on sb.
+bank on sth.
+bargain for
+bargain on
+base on
+be about to
+be absent from
+be absorbed in
+be abundant in
+be accused of
+be accustomed to
+be adapted to
+be addicted to
+be adequate for
+be adjacent to
+be advisable to do
+be alien from
+be alien to
+be annoyed with
+be applicable to
+be ashamed of
+be associated with
+be attached to
+be aware of
+be away from
+be beneficial to
+be better off
+be biased against
+be blind to
+be bound to
+be bound up with
+be capable of
+be cautious about
+be certain of
+be characterized by
+be comparable to
+be comparable with
+be compatible with
+be composed of
+be in the mood
+be in the mood for sth.
+be in the mood to do sth.
+in the rear of
 round the clock
 so far as
 so far as…be concerned

@@ -9,7 +9,6 @@
   - [如何使用](#如何使用)
     - [条目重复说明](#条目重复说明)
   - [LICENSE](#license)
-  - [References](#references)
 
 ## 短语列表
 
@@ -44,13 +43,4 @@
 
 ## LICENSE
 
-Copyright © [Shaobiao Lin](https://github.com/Octobug). [CC BY-SA 4.0](./LICENSE).
-
-## References
-
-短语主要来自以下书籍（以及部分从网络中零碎搜集）：
-
-- [《初中英语必备短语与句型》](https://book.douban.com/subject/30713267/)新东方考试研究中心. *book.douban.com*.
-- [《高中英语必备短语与句型》](https://www.goodreads.com/book/show/69016080)新东方考试研究中心. *goodreads.com*.
-- [《四六级常考核心词组1500》](https://www.goodreads.com/book/show/29551193-1500)新东方考试研究中心. *goodreads.com*.
-- [《大学英语四、六级短语手册》](https://www.goodreads.com/book/show/29981212)袁懋梓. *goodreads.com*.
+[CC BY-SA 4.0](./LICENSE).
