@@ -489,6 +489,7 @@ bring out
 bring sth. into sth.
 bring to
 bring up
+bring…into effect
 bring…into practice
 brood about
 brood on
@@ -529,57 +530,132 @@ by design
 by far
 by hand
 by heart
+by inference
 by itself
+by leaps and bounds
 by means of
 by mistake
 by nature
 by no means
+by occasion of
 by reason of
+by sheer chance
+by the book
+by the end of
+by the name of
 by the same token
+by the time
 by the way
 by turns
 by virtue of
 by way of
+call about sth.
+call at
 call for
 call forth
+call in
 call off
 call on
+call sb. about sth.
 call up
 call upon
+calm down
 can't help
+can't help doing
+cancel out
+care about
 care for
+carry forward
 carry into effect
 carry into practice
 carry off
 carry on
 carry out
+carry through
+carry…into effect
 carry…into practice
+carve out
+carve up
+cash down
+cash in on
+cast about for
 cast light on
 cast light upon
+cast out
+catch a glimpse of
 catch fire
 catch on
 catch one's breath
 catch one's eye
 catch sight of
+catch the attention of
+catch up
 catch up with
+cater for
+cater to
+charge sb. with
+chase after
 cheat sb. into the belief that
 check in
 check out
 check up
 check up on
+check with
+cheer for
 cheer up
+chew on
+chew over
+civil servant
+claim for
+clamp down
+clamp down on
+clean up
 clear away
+clear off
+clear out
 clear up
+click on
+cling to
+close down
+close in
+close up
+cluster around
+cluster together
+coincide with
+collaborate with
+collide with
+combine with
+come across
+come along
+come apart
 come around
+come at
+come away
+come away from
+come back
+come between
+come by
+come close to
+come down
+come down to
+come down with
+come in contact with
+come in for
 come into effect
+come into existence
 come into force
+come into use
 come off
 come on
 come onto operation
 come out
+come out with
+come over
 come round
 come through
 come to
+come to blows
+come to grief
 come to the point
 come true
 come up
@@ -588,6 +664,7 @@ come up with
 compare to
 compare…to
 couldn't help
+couldn't help doing
 count on
 count up
 cover up
@@ -660,6 +737,7 @@ for the time being
 from time to time
 gain access to
 gain an advantage over
+get a glimpse of
 get across
 get along with
 get around
@@ -815,6 +893,7 @@ in hand
 in haste
 in honor of
 in itself
+in leaps and bounds
 in light of
 in line
 in line with
@@ -1148,6 +1227,8 @@ set up
 settle down
 shade light on
 shade light upon
+shed light on
+shed light upon
 show in
 show off
 show up
