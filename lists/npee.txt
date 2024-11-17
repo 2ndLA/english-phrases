@@ -488,6 +488,7 @@ bring into practice
 bring out
 bring sth. into sth.
 bring to
+bring to a halt
 bring up
 bring…into effect
 bring…into practice
@@ -644,6 +645,7 @@ come in for
 come into effect
 come into existence
 come into force
+come into operation
 come into use
 come off
 come on
@@ -654,33 +656,131 @@ come over
 come round
 come through
 come to
+come to a halt
 come to blows
 come to grief
+come to one's senses
+come to the fore
 come to the point
 come true
 come up
+come up against
 come up to
 come up with
+come with
+comment about
+comment on
+commit oneself to
+commit suicide
+communicate with
 compare to
+compare with
 compare…to
+compel sb. to do
+compensate for
+compete against
+compete in
+compete with
+complete with
+comply with
+compose oneself to do
+conceal sth. from sb.
+conceive of
+concern oneself about
+concern oneself with
+conclude from
+conclude with
+confer…on sb.
+confer…upon sb.
+confess to doing sth.
+confess to sth.
+confide in
+conform to
+conform with
+confuse…with
+consent to
+consist of
+consume sb. with
+contribute to
+convert sb. to
+convert to
+convert…into
+convert…to
+convince of
+convince sb. of
+cook up
+cool off
+cooperate with sb.
+cooperate with sb. in doing
+cope with
+correlate with
+correspond to
 couldn't help
 couldn't help doing
+count in
 count on
 count up
+count…in
+couple with
+couple…with
 cover up
+crack up
+crash down
+crash into
 credit card
+credit…to
 cross out
+cry out for
 cut across
+cut away
 cut back
+cut corners
 cut down
 cut in
+cut into
 cut off
 cut out
 cut short
+damp down
+dash off
+date back to
+deal with
+decide on
+declare oneself
+decorate with
+dedicate oneself to
+deep down
+defend from
+defend…from
+depend on
+deprive of
+deprive…of
 derive from
+descend from
+descend on
+descend to
+despair of
+detach from
+deviate from
+devote oneself to
+die away
 die down
+die from
+die of
 die off
 die out
+differentiate between
+dig down
+dig up
+dip into
+disapprove of
+discourage sb. from doing
+discriminate against
+discriminate between
+dish out
+dispense with
+dispose of
+dispute with
 do away with
 do one's best
 do without
@@ -790,6 +890,7 @@ go in for
 go into
 go into effect
 go into force
+go into operation
 go off
 go on
 go on a diet
