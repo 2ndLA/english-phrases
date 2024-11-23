@@ -781,41 +781,138 @@ dish out
 dispense with
 dispose of
 dispute with
+distinguish between
+distinguish from
+distinguish…from
+distract from
+distract…from
+do a bunk
 do away with
+do justice to
 do one's best
+do one's utmost
+do the trick
+do up
+do with
 do without
+double up
+down with
 doze off
+dozens of
+drag down
+drag on
+drag out
+drain away
 draw in
 draw lessons from
 draw on
+draw one's attention to
 draw one's salary
+draw oneself up
+draw out
 draw up
+dream up
 dress up
+drive away
+drive one's point home
+drive out
 drop by
 drop in
 drop off
 drop out
+drown out
+drum up
+dry out
 due to
 dwell on
+dwell upon
+early on
+earn one's living
+easy game
 eat one's word
+eat one's words
+eat up
+ebb and flow
+economic recession
+effect on
+elaborate on
+elbow sb. out of the way
+eliminate from
 embark on
 embark upon
+emerge from
+end up doing
+end up with
+endow with
+endow…with
+engage in
+enroll in
+enter into
+entitle sb. to
+envision as
+envision…as
+equip with
+equip…with
+err on the side of
+even as
+even if
 even less
+even now
+even so
 even then
+even though
 ever since
+ever so
+every bit
 every now and then
 every other
+excel in
+except for
+exchange for
+exchange…for
+exclude from
+exempt from
+exert oneself to do
+exist in
+explain away
+expose to
+expose…to
+extend from…to
+extract from
+face to face
 face up to
+fade away
 fail to
 fair play
 fall back on
 fall behind
+fall for
 fall in love
 fall in love with
 fall in with
+fall into
+fall off
+fall on
+fall out
+fall prey to
+fall short
+fall short of
+fall through
+fall upon
 far from
+feed back
 feed in
+feed into
+feedback on
 feel like
+feel the pinch
+fend off
+fetch up
+fight down
+fight for
+fight off
+figure out
+file for
 fill in
 fill out
 find fault
@@ -1418,6 +1515,7 @@ touch up
 trolley bus
 try on
 try one's best
+try one's utmost
 try out
 tug of war
 tune in
