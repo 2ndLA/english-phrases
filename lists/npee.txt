@@ -915,27 +915,76 @@ figure out
 file for
 fill in
 fill out
+fill up
 find fault
+find fault with
 find out
+finish off
+finish up
+first of all
+fish for
+fit in
+fix on
+flag up
 flare up
+flash back to
+flatter oneself
+flesh out
+flick through
+flush with
+focus on
 for a moment
 for a while
+for an instant
+for example
+for fear of
+for fear that
 for good
+for good and all
+for instance
 for long
 for one thing
 for purpose of
 for short
+for sure
 for the better
 for the moment
+for the most part
 for the present
 for the purpose of
 for the sake of
 for the time being
+foul up
+free from
+free of charge
+free…from
+frighten away
+from now on
+from scratch
+from spite
+from the bottom up
+from then on
 from time to time
+from today on
+fulfill one's pledge
+function as
+furnish sth.
+furnish sth. to sb.
 gain access to
 gain an advantage over
+gain control over
+gain ground
+gain momentum
+gamble away
+gang up
+gather momentum
+gather up
+generate from
 get a glimpse of
+get about
 get across
+get ahead
+get along
 get along with
 get around
 get around to
@@ -943,6 +992,8 @@ get at
 get away
 get by
 get by heart
+get control over
+get cracking
 get down
 get down to
 get fed up
@@ -950,33 +1001,55 @@ get fed up with
 get hold of
 get in
 get in shape
+get in the way
+get insight into
 get into
+get into the habit of
 get off
+get on one's nerves
 get on with
 get out of
 get over
 get rid of
 get round
 get round to
+get sb. nowhere
+get stuck in
 get the best of
 get the best of sb.
 get the better of
+get the jump on
 get through
 get together
 get up
+get…by heart
 give away
 give back
+give birth to
 give in
 give off
 give oneself away
 give oneself up
 give out
+give place to
+give priority to
+give rein to
 give rise to
+give sb. access to
+give sb. an account of
+give shape of
 give up
+give vent to
 give way
 give way to
+glare at
+gleam with
+go about
 go after
+go against
 go ahead
+go all out
+go along
 go along with
 go around
 go back on
@@ -1020,6 +1093,7 @@ hang up
 have access to
 have an advantage over
 have back
+have control over
 have have got to
 have in mind
 have nothing to do with
@@ -1175,6 +1249,7 @@ lay off
 lay out
 lead the way
 learn by heart
+learn…by heart
 leave alone
 leave behind
 leave out
@@ -1334,6 +1409,7 @@ out of practice
 out of question
 out of shape
 out of sight
+out of spite
 out of step
 out of the question
 out of touch
