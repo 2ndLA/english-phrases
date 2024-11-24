@@ -236,6 +236,8 @@ bargain for
 bargain on
 base on
 be about to
+be abreast of
+be abreast with
 be absent from
 be absorbed in
 be abundant in
@@ -491,6 +493,7 @@ bring to
 bring to a halt
 bring up
 bring…into effect
+bring…into operation
 bring…into practice
 brood about
 brood on
@@ -904,7 +907,10 @@ feed back
 feed in
 feed into
 feedback on
+feel an interest in
+feel interest in
 feel like
+feel no interest in
 feel the pinch
 fend off
 fetch up
@@ -933,6 +939,7 @@ flesh out
 flick through
 flush with
 focus on
+follow one's cue from
 for a moment
 for a while
 for an instant
@@ -981,6 +988,7 @@ gather momentum
 gather up
 generate from
 get a glimpse of
+get a nap
 get about
 get across
 get ahead
@@ -1023,6 +1031,7 @@ get through
 get together
 get up
 get…by heart
+give a pledge to do
 give an insight into
 give away
 give back
@@ -1124,7 +1133,10 @@ happen to
 harmonize with
 hate one's guts
 have a bearing on
+have a hand in
 have a knowledge of
+have a nap
+have a stab at
 have access to
 have an acquaintance with sb.
 have an advantage over
@@ -1132,6 +1144,7 @@ have an effect on
 have an impact on
 have an influence on
 have an insight into
+have an interest in
 have back
 have confidence in
 have control over
@@ -1140,11 +1153,13 @@ have have got to
 have in mind
 have influence on
 have influence over
+have interest in
 have no business
 have no effect on
 have no idea
 have no impact on
 have no influence on
+have no interest in
 have nothing to do with
 have nothing to lose
 have on
@@ -1175,6 +1190,7 @@ hold on
 hold on to
 hold one's breath
 hold one's own
+hold one's temper
 hold out
 hold over
 hold pace with
@@ -1337,40 +1353,131 @@ in question
 in reality
 in regard to
 in relation to
+in reply to
+in response to
+in retrospect
 in return
+in return for
+in reverse order
+in ruins
+in scale
+in search of
 in secret
 in sequence
 in shape
 in short
 in sight
+in so far as
+in some cases
+in spite of
 in step
 in stock
+in store
 in succession
 in sum
+in summary
+in sympathy with
 in tears
 in terms of
+in that
 in the air
+in the case of
+in the circumstances
 in the course of
+in the dark
 in the distance
+in the end
 in the event of
 in the face of
 in the first place
+in the form of
+in the front of
 in the future
+in the grip of
+in the habit of
+in the hand of
+in the interest of
 in the last place
 in the least
 in the light of
 in the long run
+in the long term
+in the main
+in the matter of
+in the midst of
+in the neighborhood of
 in the past
+in the presence of
+in the process of
 in the rear of
+in the red
+in the saddle
+in the shape of
+in the short term
+in the vicinity
+in the vicinity of
+in the wake of
 in the way
 in the way of
 in the world
+in theory
+in this case
+in this way
 in time
+in tow
+in transit
 in truth
+in tune
+in tune with
 in turn
+in use
 in vain
+in view
+in view of
+in vogue
+indulge in
+infer from
+inflict on
+inflict upon
+inflict…on
+inflict…upon
+influence on
+influence upon
+influence with
+infrom sb. about sth.
+infrom sb. of sth.
+inherent in
+inquire into
+insolate from
+insolate…from
+inspire sb. with sth.
+inspire sth. in sb.
+instead of
+integrate into
+integrate with
+intend to do
+interfere in
+interfere with
+interpret as
+interpret…as
+invest in
+involve sb. in
+isolate from
+isolate…from
+join sb.
+join sb. for
 joint venture
+joke about
+jump a queue
+jump the queue
+just about
+just as
+keep a hold on
+keep a record of
+keep abreast of
+keep abreast with
 keep an eye on
+keep away from
 keep back
 keep company with
 keep down
@@ -1380,28 +1487,72 @@ keep in mind
 keep in touch
 keep off
 keep on
+keep one's distance
+keep one's ears open
+keep one's eyes and ears open
+keep one's eyes open
+keep one's finger crossed
 keep one's head
+keep one's promise
+keep one's temper
 keep one's word
 keep out of
 keep pace with
 keep to
 keep track
+keep track of
 keep up
+keep up to date
 keep up with
+kick around
+kick off
+kick out
+kick sth. around
+kick up
+kill time
+knock about
+knock around
 knock down
+knock off
 knock out
+know about
+know backward
+know backwards
+know better
+know better than
+know of
 known as
+lag behind
 laid-off workers
+lash out
+lash out at
+last hurrah
+laugh off
+launch into
+lay an emphasis on
 lay aside
+lay claim to
 lay down
 lay off
 lay out
+lay over
+lay stress on
+lay the foundation for
+lay to heart
+lay…to heart
 lead the way
+lead to
+lead up to
+leaf through
+lean on
+learn about
 learn by heart
 learn…by heart
 leave alone
 leave behind
+leave off
 leave out
+leave to one's own devices
 leave…alone
 lend itself to
 let alone
@@ -1411,70 +1562,183 @@ let in
 let loose
 let off
 let out
+let rip
+let slide
 let…alone
+let…slide
+level off
 lie in
+life span
+light up
 line up
+linger on
+listen in
+little by little
 live beyond salary
 live by
+live off
 live on
+live out
 live through
 live up to
+live with
+lock away
+log in
+log on
+log out
+long for
 look after
+look around
 look at
 look back
+look back on
 look down on
 look for
 look forward to
 look in
+look in on
 look into
 look on
 look out
+look out for
 look over
+look round
 look through
+look to
 look up
 look up to
+loosen up
+lose control of
 lose heart
 lose one's head
 lose one's heart to
 lose one's heart to sb.
 lose one's heart to sth.
+lose one's nerve
 lose one's temper
+lose one's way
 lose track
+lose track of
+lump together
+lump…together
 lunar calendar
+major in
+make a bargain with
+make a boast of
+make a compromise
+make a contribution to
+make a dash for
 make a difference
 make a face
 make a fool of
+make a fortune
 make a fuss of
+make a living
+make a mess of
+make a mistake
 make a mock of
+make a pledge to do
+make a profit
+make a raid on
+make a recovery from
+make a remark
+make a splash
+make a stab at
+make a thing of
+make a thing out of
 make allowance for
 make allowances for
+make an abstract of
+make an appointment
+make an effort
+make an offer
 make believe
+make certain
+make contact with
+make do with
+make ends meet
+make every effort
 make for
 make friends
 make fun of
+make haste
+make history
+make mention of
+make no bones about
+make no difference
+make no sense
+make nothing of
+make of
+make off
+make one's acquaintance of sb.
+make one's hair stand on end
 make one's way
 make out
+make over
+make peace with
 make progress
+make provision
+make ready
 make sense
 make sure of
 make sure that
 make the best of
 make the best use of
 make the difference
+make the grade
 make the most of
 make up
 make up for
 make up one's mind
 make use of
 make way
+make way for
+make…a top priority
+many a
+map out
+mark down
+mark time
+mark up
 matter of fact
+mean to do
+measure up to
+mediate between
+mediate in
+meet with
+mess up
+mess with
+might as well
 millions of
+mind your own business
+miss out
+mistake sb. for
 mix up
+mix with
+model after
+mop up
 more and more
+more often than not
 more or less
+more than
+move around
+move away
+move forward
+move off
+move on
+move out
+move up
+mow down
+much as
 much less
+multitudes of
+murmur against
+name after
+neither nor
+neither…nor
 never mind
 next door
+next to
+night and day
 no doubt
 no less than
 no longer
@@ -1483,27 +1747,58 @@ no matter what
 no matter when
 no more
 no more than
+no sooner than
+no sooner…than
 no wonder
+none other than
 not as…as
 not at all
+not in the slightest
 not so…as
+note down
 nothing but
+nothing more than
 notwithstanding
+now and then
+now that
+nowhere near
+object to
+occupy oneself in
+occupy oneself with
 occur to
+odds and ends
+of a kind
+of no account
 of no avail
+of one's own accord
 off and on
+off balance
 off duty
+off the cuff
+off the track
+omit doing
+omit to do
+on a dime
 on a large scale
 on a small scale
+on account
 on account of
+on all accounts
 on an average
+on and off
+on any account
 on average
 on behalf of
 on board
 on business
+on campus
 on condition that
+on cue
+on demand
 on duty
 on earth
+on every account
+on file
 on fire
 on foot
 on good terms with
@@ -1511,92 +1806,252 @@ on guard
 on hand
 on impulse
 on impulse of
+on loan
+on no account
+on oath
 on occasion
 on one hand
 on one hand, on the other hand
+on one's behalf
 on one's honor
 on one's own
+on one's own account
+on one's own behalf
+on paper
 on purpose
+on record
 on sale
 on schedule
 on second thoughts
+on short notice
+on strike
 on the air
+on the alert
 on the average
 on the basis of
 on the contrary
+on the edge of
+on the fast track
+on the fence
+on the foundation of
+on the ground of
+on the ground that
+on the grounds that
+on the horizon
+on the hour
 on the impulse
 on the impulse of
+on the instant
 on the one hand
 on the one hand, on the other hand
 on the one hand…, on the other hand
 on the other hand
+on the outskirts
 on the point of
+on the quiet
+on the rise
 on the road
+on the run
+on the scale of…to
+on the shelf
 on the side
 on the sly
 on the spot
+on the spur of the moment
 on the stage
+on the threshold of
 on the verge of
 on the whole
+on thin ice
 on time
 on top of
 once and for all
 once for all
 once in a while
 once upon a time
+only if
+open up
 or else
+or so
+or something
+orient to
+orient toward
+orient…to
+orient…toward
+originate from
 other than
+ought to
+out from curiosity
 out of
 out of breath
 out of control
+out of curiosity
 out of danger
 out of date
 out of doors
+out of hand
+out of joint
+out of one's accord with
 out of order
 out of place
 out of practice
 out of question
+out of scale
 out of shape
 out of sight
 out of spite
 out of step
+out of stock
+out of style
+out of temper
+out of the blue
 out of the question
+out of the way
 out of touch
+out of tune
 out of work
 over and over
 over and over again
+overflow with
+owe to
 owe…a spite
+owe…to
 owing to
+own up
+pack in
+pack off
+pack up
+package deal
+pair off
+pair with
+pair…with
+palm off
+parcel out
+part and parcel of
+part with
+participate in
 pass away
+pass by
 pass off
+pass on
 pass out
+pass over
+patch up
+pave the way for
 pay attention to
 pay back
+pay compliments to sb.
+pay deal
+pay down
+pay for
+pay in cash
 pay off
 pay up
+peel off
+peer at
+peer pressure
+peg away at
+penalty for
+persist for
+persist in
+phase in
+phase out
 pick out
+pick to pieces
 pick up
+pile into
+pile up
+pitch in
+place a premium on
+place an emphasis on
 play a part
 play a part in
+play a role in
+play down
+play havoc with
+play second fiddle to
 play with
+plead against
+plead for
+plough through
+plug in
+plunge into
+plunge sth. into
+point of view
 point out
+poke fun at
+poke one's nose into
+polish off
+polish up
+pop up
+portion out
+pose a threat to
 post office
+pour down
+pour into
+pour out
+pour…into
+praise for
 pray for
+preferable to
+preference for
+prepare for
+preside at
+preside over
+press on
+presume on
+prevail on
+prevail over
+prevail upon
 prevent from
+prevent from doing
+prevent…from doing
+previous to
 prey on
+prick up one's ears
+prior to
+probe into
+proficiency in
+profit by
+profit from
+prohibit sb. from doing
+prone to
+prop up
+propose doing
+propose to do
+protect against
+provide for
+provide sb. with
+public figure
+pull apart
+pull away
 pull down
 pull in
 pull off
 pull on
 pull out
+pull over
+pull through
+pull to pieces
+pull together
 pull up
+pull…apart
+push aside
+push away
+push into
+push up
+put a premium on
 put across
+put an emphasis on
+put an end to
 put aside
 put away
 put down
+put down to
 put forward
 put in
 put in for
+put in motion
 put in order
 put into effect
 put into operation
@@ -1604,177 +2059,665 @@ put into practice
 put off
 put on
 put out
+put over
+put right
+put sb. through
+put to death
 put to use
 put up
 put up with
+put…down to
+put…in motion
+put…in order
+put…into effect
+put…into operation
 put…into practice
+put…to death
+put…to use
+puzzle out
+puzzle over
+qualify for
+quantify the risks of
+quest for
+queue for
+quite a few
+quite a little
+quite a number of
+rail against
+rail at
+raise eyebrows
+range between
+range from…to
+range over
+rap out
+rare bird
 rather than
+rattle off
+rattle on
+reach a compromise over
+reach a settlement
+reach an agreement
+react against
+react on
+react to
+react upon
+read through
+reckon as
 reckon in
 reckon on
 reckon upon
 reckon with
+reckon…as
+reckon…to be
+reconcile to
+recover from
+reel off
 refer to
 refer to…as
+reflect on
+refrain from
+regard as
+regardless of
+regard…as
+register for
+register with
+reign over
+rein in
+relate to
+relate with
+relevant to
+relieve sb. of
+reluctant to do
+rely on
+rely upon
+remark on
+remark up on
+remedy for
+remind sb. of sth.
+renege on
+reply to
+require of
+reside in
+resistance to
+resistant to
+resolve into
+resolve on
+resort to
+respond to
+response to
+rest on
+rest upon
+restrain sb. from doing
+restrict to
+restrict…to
+result from
+result in
+return to
+revolt against
+revolve around
+rid sb. of sth.
+rifle through
 ring off
+ripe for
+rise above
 rival in sth.
 rival…in sth.
+rob of
+rob…of
+root in
+root…in
+rope in
 round the clock
 rub out
+rule out
+run a fever
+run across
+run away with
+run counter to
 run down
+run dry
 run for
 run into
+run low
 run off
+run out
 run out of
 run over
+run parallel to
+run parallel with
+run riot
 run short
+run the risk of
+run through
+run to
+run up
+rush into
+rush off
+rush through
+sacrifice for
+sacrifice to
 sand up to
+saturate with
+saturate…with
+save for
+save on
+scale back
+scale down
+scare sb. stiff
+scout about for
+scout around for
+scramble for
+scrape by
 scrape through
+scrape together
+scrape up
+scream for
+screw up
+search for
+see about
+see eye to eye
 see off
+see out
+see sb. off
+see that
 see through
 see to
+see to it that
+see with half an eye
+seek out
+seize on
+seize upon
+sell off
+sell out
+sell up
+send away
 send for
 send in
+send out
+senior to
+sense of responsibility
 serve as
 serve sb. right
+set a good example
 set about
+set apart
 set aside
 set back
 set down
 set fire to
+set foot in
 set forth
 set free
+set in
+set in motion
 set off
+set one's heart on
 set out
 set out to
+set the pace
 set up
 settle down
+settle for
+settle in
+settle into
+settle on
+settle up
+settle upon
+set…in motion
+sew up
+shade into
 shade light on
 shade light upon
+shake down
+shake off
+shake one's belief
 shed light on
 shed light upon
+shove off
 show in
 show off
+show respect for
+show sb. in
+show sb. out
 show up
+shrink away from
+shrink back from
+shrug off
+shut down
+shut in
+shut off
+shut out
+shut up
 side by side
 side walk
 side with
+sign in
+sign on
+sign up for
+single out
+sink in
+sit back
 sit for
 sit in
+sit out
+sit through
 sit up
+size up
+sketch out
+slacken off
 slap around
 slap down
+sleep through
+slim down
+slip into
+slip out
+slip up
+slot in
+slot into
+slot…into
+slow down
+smooth down
+smooth over
+snap at
+snap out of
+snap up
+snatch up
+sneak away
+sneak out
+sniff out
+so as to
 so far
 so far as
 so far as…be concerned
 so long as
+soak up
+sober up
+something of
+sort out
+sort through
+sound out
+so…as to
+spark off
+speak for
+speak highly of
+speak out
+speak up
+speak well of
+specialize in
+speculate about
+speculate on
 speed up
+spell out
+spill out
+spin out
+spit at
+spit on
+spit out
+split up
+sponge off
+sponge on
+spread out
+spread over
+spring up
+sprout out
+sprout up
+spy on
+stab in the back
+stake on
+stand back
 stand by
+stand down
 stand for
 stand out
 stand up
 stand up for
+stand up to
+stare at
 start from scratch
+start off
+start on
+start out
+start up
+start with
+status quo
+stay away from
+stay off
+stay out
+stay put
+stay up
+steam up
+steer clear of
+stem from
 step by step
 step in
+step into
+step out
 step up
+stick around
 stick out
 stick to
+stick with
 still less
+stir up
+stop off
+stop over
+store up
+straight away
+straight off
+straight out
+straight up
+stream into
+strike terror into
+string out
+string up
+strive for
+struggle for
+struggle with
+stuff with sth.
+stuff…with sth.
+stumble across
+stumble on
+stumble upon
+submit to
+submit…to
+subordinate to
+subscribe to
+substitute for
+succeed in
+sue for
+suffer from
+suffice it to say
+suffice it to say that
+suffice to say
+suffice to say that
+sufficient for
 sum up
 summon up
+superior to
+superiority in
+swear at
+swear by
+swear sb. in
+sweep in
+switch off
+switch on
+sympathize with
+take a breath
 take a chance
+take a fancy to
+take a gamble
+take a hand in
+take a nap
+take a page from
+take a stab at
+take a stand
+take a tough line
+take a turn for the worse
+take aback
+take account of
+take action
 take advantage of
 take after
+take an interest in
 take apart
 take as
 take away
 take care
 take care of
+take chances
 take charge of
+take control of
+take cover
 take delight in
 take down
 take effect
+take exception to
 take for
 take for granted
 take in
+take in one's stride
+take in stride
+take interest in
 take into account
+take into consideration
+take it easy
+take its toll
+take no interest in
+take notes
+take notice of
+take occasion to do
 take off
+take off the gloves
+take off the gloves to sb.
+take office
 take on
+take on oneself
+take one's breath away
+take one's cue from
 take one's time
+take out
 take over
 take pains
 take part in
 take place
+take pride in
+take priority over
+take risks
+take root
+take sb. into one's confidence
 take shape
+take steps
+take sth. into consideration
+take the blame
+take the lead
 take the place of
+take the plunge
+take the risk of
 take to
+take to heart
 take turns
 take up
+take upon oneself
+take your time
 take…as
 take…for
 take…for granted
 take…into account
+take…into consideration
+take…on oneself
+take…to heart
+take…upon oneself
 talk back
 talk into
+talk sb. into doing
+talk sense
+tangle with
 tape recorder
 teach sb. a lesson
+tear down
+tear up
+tell a lie
+tell sb. apart
+tell sth. apart
+tend to
+tend to do
+tender for
+testify to
 thanks to
 that is
+the bulk of
 the majority of
 the moment
 the moment that
 the same as
+the writing is on the wall
+there and then
+think about
+think back to
 think better of
+think highly of
 think of
 think of…as
 think over
+think poorly of
+think through
+thirst for
 thousands of
+throw a light on
+throw a light upon
 throw away
 throw light on
 throw light upon
+throw off
+throw up
+thumb through
+tick away
+tick by
+tidy up
+tie up
+time and again
+tip off
+tire out
+to a certain degree
+to a certain extent
+to all intents
+to all intents and purposes
 to and fro
+to be frank
+to begin with
+to date
+to excess
 to no avail
+to one's heart's content
+to one's relief
+to some extent
+to start with
+to the best of one's ability
+to the contrary
+to the letter
 to the point
+together with
+tone up
+top out
+top tier
 touch on
 touch up
+touch upon
+trace back to
+trail away
+trail off
+trifle with
 trolley bus
 try on
 try one's best
 try one's utmost
 try out
+tuck away
+tuck in
 tug of war
+tumble to
 tune in
 tune in to sth.
+turn a blind eye to
+turn a deaf ear to
+turn about
+turn around
+turn away
+turn back
 turn down
 turn in
 turn into
 turn off
 turn on
+turn one's back on
 turn out
 turn over
+turn the corner
 turn to
 turn up
+twist one's ankle
+under any circumstances
 under control
+under discussion
+under no circumstances
+under oath
+under pressure
+under suspicion
+under the circumstances
+under way
+up and down
+up in the air
+up to
 up to date
 use up
+vary from
 vice versa
+view as
+view…as
+vote against
+vote for
+wait for
+wait on
 ward off
 warm up
+warn sb. of sth.
+watch out
+watch over
+wave aside
+wave at
+wave goodbye to
 wear off
 wear out
+wear thin
+wear well
+weed out
+weigh down
+weigh up
+weigh…against
 what about
 what if
+when it comes to
+win over
+wind up
+wink at
 wipe off
 wipe out
 wipe up
+wish for
+with a grain of salt
+with a pinch of salt
+with a vengeance
+with a view to
+with assurance
+with confidence
+with ease
+with great passion
+with one accord
+with one's consent
 with regard to
 with relation to
 with respect to
 with the exception of
+with the help of
+with the purpose of
 without a rival
+without permission
+without prejudice
+without prejudice to
+without restraint
+word by word
 word for word
+work as
+work for
+work off
+work on
 work out
 work up
+work with
+worry about
 would rather than
 would rather…than
+wrap up
 write off
+yield to
+zeal for
