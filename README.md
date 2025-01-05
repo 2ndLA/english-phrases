@@ -19,7 +19,7 @@
 - [ ] [🚧 考研 (`npee.txt`, National Postgraduate Entrance Examination)](./lists/npee.txt)
 - [ ] [🚧 专四 (`tem4.txt`, Test for English Majors Band 4)](./lists/tem4.txt) ⚠️`零碎搜集`
 - [ ] [🚧 专八 (`tem8.txt`, Test for English Majors Band 8)](./lists/tem8.txt) ⚠️`零碎搜集`
-- [ ] 雅思 (`ielts.txt`, International English Language Testing System)
+- [ ] [🚧 雅思 (`ielts.txt`, International English Language Testing System)](./lists/ielts.txt)
 - [ ] 托福 (`toefl.txt`, Test of English as a Foreign Language)
 - [ ] GRE (`gre.txt`, Graduate Record Examination)
 
