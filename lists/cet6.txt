@@ -483,7 +483,6 @@ blow up
 board up
 boast about
 boast of
-boil over
 boil down to
 boil over
 book in
@@ -770,7 +769,6 @@ come up against
 come up for
 come up to
 come up with
-compare with
 commend itself to
 commission agent
 commission merchant
@@ -780,6 +778,7 @@ committed to
 comparable to
 compare notes
 compare to
+compare with
 compatible with
 compel sb. to do sth.
 compensate for
@@ -1410,9 +1409,8 @@ had rather
 had rather than
 had rather…
 had rather…than
-had sooner…
-had sooner…than
 had sooner
+had sooner…
 had sooner…than
 hail from
 hammer away at
@@ -2006,6 +2004,7 @@ link up
 listen to
 little by little
 live a lie
+live a miserable life
 live in exile
 live in misery
 live off
@@ -2014,7 +2013,6 @@ live out
 live through
 live up to
 live with
-live a miserable life
 lock in
 lock up
 log in
@@ -2066,6 +2064,7 @@ make a confession
 make a difference
 make a donation
 make a fool of
+make a fortune
 make a fuss of
 make a fuss over
 make a good appearance
@@ -2125,7 +2124,6 @@ make up for
 make up one's mind
 make use of
 make way
-make a fortune
 many a
 map out
 mark down
@@ -2195,8 +2193,6 @@ no matter who
 no more than
 no more…than
 no other than
-no sooner than
-no sooner…than
 no sooner than
 no sooner…than
 no way
@@ -2757,7 +2753,6 @@ save up
 scale down
 scarcely when
 scarcely…when
-skeptical about
 scheme out
 scoff at
 scrape by
@@ -2930,7 +2925,6 @@ soak up
 solution to
 something of
 something of a
-sooner or later
 sooner or later
 sort of
 sort out
@@ -3473,9 +3467,8 @@ would rather
 would rather than
 would rather…
 would rather…than
-would sooner…
-would sooner…than
 would sooner
+would sooner…
 would sooner…than
 wound up
 wrap up
