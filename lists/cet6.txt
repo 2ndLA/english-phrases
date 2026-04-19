@@ -40,7 +40,6 @@ abandon doing sth.
 abandon oneself to
 abate up discontent
 abide by
-above abord
 above all
 above board
 above one's head
@@ -448,7 +447,7 @@ believe in
 belong to
 bend over
 bend over backwards
-beneath one's dignit
+beneath one's dignity
 beside oneself
 beside the point
 better off
@@ -484,7 +483,7 @@ blow up
 board up
 boast about
 boast of
-boid over
+boil over
 boil down to
 boil over
 book in
@@ -771,7 +770,7 @@ come up against
 come up for
 come up to
 come up with
-comepare with
+compare with
 commend itself to
 commission agent
 commission merchant
@@ -1411,8 +1410,8 @@ had rather
 had rather than
 had rather…
 had rather…than
-had sonner…
-had sonner…than
+had sooner…
+had sooner…than
 had sooner
 had sooner…than
 hail from
@@ -1542,8 +1541,8 @@ impose sth. on sb.
 impose sth. upon sb.
 impose upon
 impress sb. with
-impress sth. on one's ｍind
-impress sth. upon one's ｍind
+impress sth. on one's mind
+impress sth. upon one's mind
 impress with
 impression on
 improve on
@@ -2015,7 +2014,7 @@ live out
 live through
 live up to
 live with
-liveａmiserable life
+live a miserable life
 lock in
 lock up
 log in
@@ -2056,7 +2055,7 @@ lose popularity
 lose sight of
 lose track of
 lots of
-maintain one's famil
+maintain one's family
 maintain oneself
 maintain…onto
 major in
@@ -2126,7 +2125,7 @@ make up for
 make up one's mind
 make use of
 make way
-make ａfortune
+make a fortune
 many a
 map out
 mark down
@@ -2196,8 +2195,8 @@ no matter who
 no more than
 no more…than
 no other than
-no sonner than
-no sonner…than
+no sooner than
+no sooner…than
 no sooner than
 no sooner…than
 no way
@@ -2536,7 +2535,7 @@ poke round
 poles apart
 polish off
 pop up
-populor with
+popular with
 pour into
 pour out
 pour scorn on
@@ -2758,7 +2757,7 @@ save up
 scale down
 scarcely when
 scarcely…when
-sceptical about
+skeptical about
 scheme out
 scoff at
 scrape by
@@ -2931,7 +2930,7 @@ soak up
 solution to
 something of
 something of a
-sonner or later
+sooner or later
 sooner or later
 sort of
 sort out
@@ -3382,7 +3381,7 @@ verge on
 victory over
 view as
 view…as
-voice one's disconten
+voice one's discontent
 vote down
 vote in
 vulnerable to
@@ -3474,8 +3473,8 @@ would rather
 would rather than
 would rather…
 would rather…than
-would sonner…
-would sonner…than
+would sooner…
+would sooner…than
 would sooner
 would sooner…than
 wound up
