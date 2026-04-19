@@ -1,5 +1,5 @@
-It occurs to sb. that
 a bit
+a bit of
 a body of
 a case in point
 a chance of lifetime
@@ -35,11 +35,14 @@ about to
 above all
 absence of mind
 access to
+accessible to
 accomplish one's purpose
 accord with
 according to
 account for
 accountable for
+accountable to
+accuse of
 accuse sb. of
 accustom…to
 acquaint…with
@@ -62,10 +65,12 @@ agitate for
 agree on
 agree upon
 agree with
+agreeable to
 ahead of
 ahead of schedule
 ahead of time
 aim at
+aim for
 all at once
 all but
 all in all
@@ -111,6 +116,7 @@ around the corner
 around the globe
 arrange for
 as a matter of fact
+as a means of
 as a result
 as a result of
 as a rule
@@ -188,6 +194,7 @@ at sea
 at stake
 at the best
 at the cost of
+at the end of
 at the expense of
 at the height of
 at the mercy of
@@ -1444,8 +1451,8 @@ inflict…upon
 influence on
 influence upon
 influence with
-infrom sb. about sth.
-infrom sb. of sth.
+inform sb. about sth.
+inform sb. of sth.
 inherent in
 inquire into
 insolate from
@@ -1464,6 +1471,7 @@ invest in
 involve sb. in
 isolate from
 isolate…from
+it occurs to sb. that
 join sb.
 join sb. for
 joint venture
