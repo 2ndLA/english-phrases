@@ -1,7 +1,10 @@
 {
+    "python.defaultInterpreterPath": "${workspaceFolder}/.venv/bin/python",
+    "python.terminal.activateEnvironment": true,
     "cSpell.words": [
         "bilibili",
         "ielts",
-        "npee"
+        "npee",
+        "uniquefy"
     ]
 }

@@ -1,0 +1,10 @@
+[project]
+name = "english-phrases"
+version = "0.1.0"
+description = "英语短语词库列表合集及文本处理工具"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []
+
+[tool.uv]
+package = false
