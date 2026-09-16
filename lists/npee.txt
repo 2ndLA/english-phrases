@@ -6,6 +6,7 @@ a chance of lifetime
 a chorus of protest
 a copy of
 a couple of
+a flash in the pan
 a fraction of
 a handful of
 a host of
@@ -15,16 +16,23 @@ a majority of
 a matter of
 a multitude of
 a number of
+a part of
 a passing fad
+a period of
+a piece of cake
 a range of
 a sea of
 a sequence of
 a series of
 a slap in the face
+a sort of
+a spell of
+a stab in the back
 a string of
 a sum of
 a swarm of
 a ton of
+a train of
 a variety of
 a wide range of
 abandon oneself to
@@ -47,6 +55,7 @@ accuse sb. of
 accustom…to
 acquaint…with
 across the globe
+act for
 act on
 adapt for
 adapt oneself to
@@ -63,14 +72,20 @@ against all odds
 against all the odds
 agitate for
 agree on
+agree to
 agree upon
 agree with
 agreeable to
+agreed account
+agreement on
 ahead of
 ahead of schedule
 ahead of time
 aim at
 aim for
+akin to
+alien from
+alien to
 all at once
 all but
 all in all
@@ -93,6 +108,7 @@ amount to
 amuse sb. by doing sth.
 an average of
 an once-in-a-life-time opportunity
+analogous to
 and so forth
 and so on
 and then
@@ -105,21 +121,25 @@ apply for
 apply oneself to
 apply to
 approach to
+appropriate to
 approve of
 approximate to
 argue against
 argue for
 argue with
 arise from
+arm with
 around the clock
 around the corner
 around the globe
 arrange for
+arrive in
 as a matter of fact
 as a means of
 as a result
 as a result of
 as a rule
+as a whole
 as far as
 as far as be concerned
 as far as…be concerned
@@ -128,6 +148,9 @@ as for
 as good as
 as if
 as long as
+as often as
+as often as not
+as opposed to
 as regards
 as though
 as to
@@ -151,12 +174,19 @@ associate with
 associate…with
 assure sb. of sth.
 at a  standstill
+at a glance
 at a loss
+at a moment's notice
 at a premium
+at a profit
+at a stretch
 at a time
 at all
 at all costs
 at all events
+at all times
+at an end
+at any price
 at any rate
 at best
 at birth
@@ -171,6 +201,7 @@ at hazard
 at heart
 at intervals
 at issue
+at its best
 at large
 at last
 at least
@@ -190,17 +221,25 @@ at one's wits' end
 at present
 at random
 at risk
+at sb.'s disposal
 at sea
+at short notice
 at stake
 at the best
+at the bottom
 at the cost of
 at the end of
+at the end of the day
 at the expense of
 at the height of
+at the instant of
+at the latest
+at the longest
 at the mercy of
 at the moment
 at the most
 at the outset
+at the outside
 at the prospect of
 at the rate of
 at the rear of
@@ -210,6 +249,7 @@ at the start
 at the thought of
 at the time of
 at the time that
+at the top
 at the very least
 at the worst
 at times
@@ -218,11 +258,14 @@ at work
 at worst
 attach importance to
 attach oneself to
+attach to
 attached to
+attempt to
 attend to
 attitude toward
 attitude towards
 attract one's attention
+attribute to
 attribute…to
 avail of
 avail oneself of
@@ -235,6 +278,8 @@ back of
 back off
 back out
 back up
+bad debt
+badly off
 bang against
 bang into
 bank on sb.
@@ -242,6 +287,7 @@ bank on sth.
 bargain for
 bargain on
 base on
+be able to
 be about to
 be abreast of
 be abreast with
@@ -259,6 +305,7 @@ be alien from
 be alien to
 be annoyed with
 be applicable to
+be appropriate for
 be ashamed of
 be associated with
 be attached to
@@ -268,12 +315,16 @@ be beneficial to
 be better off
 be biased against
 be blind to
+be bothered with
 be bound to
 be bound up with
+be busy with
 be capable of
 be cautious about
+be central to
 be certain of
 be characterized by
+be charged with
 be comparable to
 be comparable with
 be compatible with
@@ -282,10 +333,13 @@ be concerned about
 be concerned with
 be confident in
 be confident of
+be confronted with
 be conscious of
+be considered as
 be consistent with
 be content with
 be contrary to
+be correlated with
 be critical of
 be crucial to
 be curious about
@@ -295,19 +349,27 @@ be dependent on
 be dependent upon
 be deprived of
 be designed to do
+be different from
+be diligent in
+be disappointed at
 be dissatisfied at
 be dissatisfied with
 be distinct from
+be distracted by
 be divided into
+be dominant over
 be doomed to
 be doubtful about
+be eager to
 be eager to do
 be easy of access
 be eligible for
+be enrolled in
 be enthusiastic about
 be entitled to
 be envious of
 be equal to
+be equipped for
 be equivalent to
 be essential to
 be exhausted from
@@ -316,17 +378,22 @@ be faced with
 be familiar to
 be familiar with
 be fascinated by
+be fascinated with
 be fearful of
 be fed up
 be fed up with
 be filled with
 be fit to
+be fond of
+be forced to
 be friends with
+be generous to
 be good for
 be grounded in
 be happy with
 be identical to
 be identical with
+be ignorant of
 be immersed in
 be immune from
 be immune to
@@ -335,6 +402,7 @@ be in shape
 be in the mood
 be in the mood for sth.
 be in the mood to do sth.
+be inclined to
 be inclined to do
 be inclusive of
 be independent of
@@ -345,9 +413,11 @@ be indignant with
 be indispensable for
 be indispensable to
 be inferior to
+be injurious to
 be innocent of
 be instrumental in
 be intent on
+be interested in
 be involved in
 be irrelevant to
 be irrespective of
@@ -361,15 +431,20 @@ be known for
 be lack of
 be liable for
 be liable to
+be likely to
 be loyal to
+be made of
 be made up of
+be marked by
 be married to
 be meant to
 be nervous about
 be objective about
 be obliged to
 be obsessed with
+be of…importance
 be on a diet
+be on the wrong planet
 be open to
 be opposed to
 be optimistic about
@@ -382,6 +457,8 @@ be proficient in
 be prone to
 be proud of
 be puzzled about
+be puzzled by
+be regarded as
 be relevant to
 be reluctant to do
 be remarkable for
@@ -390,6 +467,7 @@ be responsible for
 be rigorous with
 be satisfied with
 be scheduled for
+be second to
 be secondary to
 be sensitive to
 be sick of
@@ -413,31 +491,46 @@ be suspicious of
 be tempted to do
 be terrified at
 be terrified with
+be the talk of
 be tired of
 be to blame
 be tolerant of
 be typical of
 be unaware of
 be unfamiliar with
+be unlikely to
+be unprepared for
 be unwilling to do
 be up to
+be up to sb.
+be urged to
 be used to do
+be validated by
+be vulnerable to
 be weary of
+be willing to
 be willing to do
 be worse off
 be worth doing
+be worthwhile to
 be worthy of
+bear a similarity to
 bear in mind
+bear out
 bear up
 bear…a spite
 beat about the bush
 beat around the bush
+beat sb. to the punch
 beat…to the punch
 because of
+bed down
 before long
+begin with
 behave oneself
 behind one's back
 behind schedule
+behind someone's back
 behind the scenes
 believe in
 belong to
@@ -446,28 +539,40 @@ bend over backwards to do
 benefit by
 benefit from
 beside the point
+bet on
 between jobs
 beyond all question
 beyond description
 beyond dispute
 beyond expression
+beyond one's ability
 beyond one's comprehension
 beyond question
+beyond the capability of
+beyond the dreams of
 beyond words
 bid for
 bid up
+bite one's nails
+blame on
 blame sb. for sth.
 blast off
+blow up
 blunder about
 blunder around
 blunder on
 blunder upon
 boast about
 boast of
+body of
 boil down to
+bombard with
+book value
 boot up
+bottom line
 bounce back
 bound for
+box office
 branch off
 branch out
 break a promise
@@ -491,6 +596,7 @@ bring down
 bring forth
 bring forward
 bring in
+bring into
 bring into effect
 bring into operation
 bring into practice
@@ -498,6 +604,7 @@ bring out
 bring sth. into sth.
 bring to
 bring to a halt
+bring together
 bring up
 bring…into effect
 bring…into operation
@@ -507,8 +614,11 @@ brood on
 brood over
 brush aside
 brush off
+build in
+build into
 build on
 build up
+build upon
 bump against
 bump along
 bump down
@@ -518,10 +628,14 @@ burn down
 burn out
 burn up
 burst into
+burst on
+burst out
+burst upon
 but for
 but then
 but then again
 butt in
+buy into
 buy off
 buy out
 buy up
@@ -533,6 +647,7 @@ by all means
 by analogy
 by and large
 by chance
+by common consent
 by comparison
 by contrast
 by contrast with
@@ -550,6 +665,7 @@ by nature
 by no means
 by occasion of
 by reason of
+by rights
 by sheer chance
 by the book
 by the end of
@@ -567,13 +683,17 @@ call forth
 call in
 call off
 call on
+call out bids
 call sb. about sth.
 call up
 call upon
 calm down
+can do with
 can't help
 can't help doing
 cancel out
+cannot but
+capable of
 care about
 care for
 carry forward
@@ -590,6 +710,9 @@ carve up
 cash down
 cash in on
 cast about for
+cast around for
+cast aside
+cast doubt on
 cast light on
 cast light upon
 cast out
@@ -601,34 +724,47 @@ catch one's eye
 catch sight of
 catch the attention of
 catch up
+catch up on
+catch up to
 catch up with
 cater for
 cater to
+chance on
+chance upon
 charge sb. with
 chase after
 cheat sb. into the belief that
 check in
+check on
 check out
 check up
 check up on
 check with
 cheer for
+cheer on
 cheer up
 chew on
 chew over
+choke back
+choke up
 civil servant
 claim for
 clamp down
 clamp down on
+clean out
 clean up
 clear away
 clear off
 clear out
 clear up
+clear-cut
 click on
 cling to
+close by
 close down
 close in
+close in on
+close to
 close up
 cluster around
 cluster together
@@ -636,6 +772,7 @@ coincide with
 collaborate with
 collide with
 combine with
+come about
 come across
 come along
 come apart
@@ -650,8 +787,12 @@ come close to
 come down
 come down to
 come down with
+come in
 come in contact with
 come in for
+come into
+come into affect
+come into being
 come into effect
 come into existence
 come into force
@@ -663,16 +804,26 @@ come onto operation
 come out
 come out with
 come over
+come right out and say
 come round
 come through
 come to
+come to a close
 come to a halt
+come to a head
 come to blows
 come to grief
+come to grips with
+come to hand
+come to life
+come to light
+come to no harm
 come to one's senses
+come to terms
 come to the fore
 come to the point
 come true
+come under
 come up
 come up against
 come up to
@@ -680,9 +831,14 @@ come up with
 come with
 comment about
 comment on
+commit a crime
 commit oneself to
 commit suicide
+common run of men
+common to
 communicate with
+comparable to
+comparable with
 compare to
 compare with
 compare…to
@@ -691,27 +847,37 @@ compensate for
 compete against
 compete in
 compete with
+complain about
+complain of
 complete with
 comply with
 compose oneself to do
 conceal sth. from sb.
 conceive of
+concentrate on
+concern for
 concern oneself about
 concern oneself with
 conclude from
 conclude with
 confer…on sb.
 confer…upon sb.
+confess to
 confess to doing sth.
 confess to sth.
 confide in
+confine to
+confine within
 conform to
 conform with
 confuse…with
 consent to
 consist of
 consume sb. with
+contrary to
 contribute to
+control over
+convenient to
 convert sb. to
 convert to
 convert…into
@@ -725,23 +891,34 @@ cooperate with sb. in doing
 cope with
 correlate with
 correspond to
+could do with
+could yet do
 couldn't help
 couldn't help doing
+count as
+count for
 count in
 count on
 count up
 count…in
 couple with
+coupled with
 couple…with
 cover up
+crack down
 crack up
 crash down
 crash into
 credit card
 credit…to
 cross out
+cross section
+cry out against
 cry out for
+cure of
+curl up
 cut across
+cut and dried
 cut away
 cut back
 cut corners
@@ -751,17 +928,21 @@ cut into
 cut off
 cut out
 cut short
+cut up
 damp down
 dash off
+date back from
 date back to
 deal with
 decide on
 declare oneself
 decorate with
 dedicate oneself to
+dedicate to
 deep down
 defend from
 defend…from
+define as
 depend on
 deprive of
 deprive…of
@@ -773,17 +954,21 @@ despair of
 detach from
 deviate from
 devote oneself to
+devote to
 die away
 die down
 die from
 die of
 die off
 die out
+differ in
 differentiate between
 dig down
 dig up
 dip into
+disagree with
 disapprove of
+discontent with
 discourage sb. from doing
 discriminate against
 discriminate between
@@ -791,6 +976,7 @@ dish out
 dispense with
 dispose of
 dispute with
+distinct from
 distinguish between
 distinguish from
 distinguish…from
@@ -798,6 +984,9 @@ distract from
 distract…from
 do a bunk
 do away with
+do business
+do for
+do harm to
 do justice to
 do one's best
 do one's utmost
@@ -806,6 +995,7 @@ do up
 do with
 do without
 double up
+double-digit
 down with
 doze off
 dozens of
@@ -813,26 +1003,35 @@ drag down
 drag on
 drag out
 drain away
+draw a comparison
+draw a conclusion
+draw a conclusion from
 draw in
+draw into
 draw lessons from
 draw on
 draw one's attention to
 draw one's salary
 draw oneself up
 draw out
+draw to a close
 draw up
 dream up
 dress up
 drive away
 drive one's point home
 drive out
+drive sb. to do sth.
 drop by
 drop in
 drop off
 drop out
+drop out of
+drop to
 drown out
 drum up
 dry out
+dry up
 due to
 dwell on
 dwell upon
@@ -1035,6 +1234,7 @@ get the best of sb.
 get the better of
 get the jump on
 get through
+get to grips with
 get together
 get up
 get…by heart
@@ -1079,6 +1279,7 @@ go in
 go in for
 go into
 go into action
+go into affect
 go into detail
 go into details
 go into effect
@@ -1708,6 +1909,7 @@ mark down
 mark time
 mark up
 matter of fact
+may yet do
 mean to do
 measure up to
 mediate between
@@ -1716,6 +1918,7 @@ meet with
 mess up
 mess with
 might as well
+might yet do
 millions of
 mind your own business
 miss out
@@ -2233,6 +2436,7 @@ see to
 see to it that
 see with half an eye
 seek out
+seem irrelevant to
 seize on
 seize upon
 sell off
@@ -2729,3 +2933,4 @@ wrap up
 write off
 yield to
 zeal for
+deduce from
